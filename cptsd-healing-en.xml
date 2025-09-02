@@ -19,8 +19,8 @@
       <link>https://hubeilaocast.github.io/</link>
     </image>
     <generator>HubeiLaoCast RSS Generator</generator>
-    <lastBuildDate>Tue, 02 Sep 2025 12:00:00 AEST</lastBuildDate>
-    <atom:link href="https://hubeilaocast.github.io/rss_en.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 02 Sep 2025</lastBuildDate>
+    <atom:link href="https://hubeilaocast.github.io/cptsd-healing-en.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[Podcast by: hubeilaocast (湖北佬); Original Content by: 光瞳]]></author>
     <copyright><![CDATA[© 2024 hubeilaocast. The content of this podcast is based on the original works of 光瞳, shared freely on Zhihu and WeChat Official Account. All rights to the original content belong to 光瞳. This podcast is for educational and non-commercial use only.]]></copyright>
     <language><![CDATA[en-us]]></language>
@@ -36,7 +36,7 @@
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
     <itunes:image href="https://HubeiLaoCast.github.io/img/CPTSD%20Healing.png"/>
-    <itunes:new-feed-url>https://hubeilaocast.github.io/rss_en.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>https://hubeilaocast.github.io/cptsd-healing-en.xml</itunes:new-feed-url>
     
     <item>
       <title><![CDATA[Ch. 01: Foundations of Self-Help and Trauma Recovery]]></title>
@@ -46,11 +46,11 @@
       <link>https://archive.org/details/beyond-symptoms-self-healing-cptsd-asperger-s-with-somatic-wisdom</link>
       <guid isPermaLink="false">cptsd-aspergers-healing-ch01</guid>
       <dc:creator><![CDATA[CPTSD &amp; Asperger's Healing Series]]></dc:creator>
-      <pubDate>Tue, 02 Sep 2025 08:00:00 AEST</pubDate>
+      <pubDate>Tue, 02 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h/CPTSD%20%26%20Asperger%27s%20Healing%20-%20Ch.%2001_%20From%20Trauma%20to%20Triumph_%20Reclaiming%20Your%20Integrated%20Self%20for%20Self-Salvation.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>This episode lays the groundwork for the entire series, exploring the fundamental principles of self-help and healing from trauma. We discuss the innate pro-social nature of humans, the crucial role of self-responsibility (without victim-blaming), and the shift in identity from "victim" to "survivor." This episode also introduces key concepts like the "Full Struggle Spirit" and the "Protracted War Spirit," providing a new framework for understanding the healing journey.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:15:41</itunes:duration>
       <itunes:image href="https://archive.org/services/img/beyond-symptoms-self-healing-cptsd-asperger-s-with-somatic-wisdom"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -63,11 +63,11 @@
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</link>
       <guid isPermaLink="false">cptsd-aspergers-healing-ch02</guid>
       <dc:creator><![CDATA[CPTSD &amp; Asperger's Healing Series]]></dc:creator>
-      <pubDate>Tue, 02 Sep 2025 09:00:00 AEST</pubDate>
+      <pubDate>Tue, 02 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h/CPTSD%20%26%20Asperger%27s%20Healing%20-%20Ch.%2002_%20The%20Exchange%20Loop_%20How%20Your%20Interactions%20Shape%20Reality%2C%20Emotion%2C%20and%20Healing.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>This episode introduces the concept of "interaction loops" as the foundation for understanding all human experience. We explore how these loops shape our perceptions, emotions, and behaviors, both internally and in our relationships with others. The episode also breaks down the different levels of human activity, from micro-movements to complex social interactions, and examines how trauma can disrupt these processes.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:27:49</itunes:duration>
       <itunes:image href="https://archive.org/services/img/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -80,11 +80,11 @@
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</link>
       <guid isPermaLink="false">cptsd-aspergers-healing-ch03</guid>
       <dc:creator><![CDATA[CPTSD &amp; Asperger's Healing Series]]></dc:creator>
-      <pubDate>Tue, 02 Sep 2025 10:00:00 AEST</pubDate>
+      <pubDate>Tue, 02 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h/CPTSD%20%26%20Asperger%27s%20Healing%20-%20Ch.%2003_%20Beyond%20Labels_%20Unpacking%20Complex%20Trauma%20and%20the%20Path%20to%20Healing.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>This episode provides a detailed exploration of Complex Post-Traumatic Stress Disorder (CPTSD), distinguishing it from classic PTSD. We examine the different types of trauma, from acute, single-event trauma to the chronic, relational trauma that characterizes CPTSD. The episode also discusses the comorbidity of CPTSD with other conditions, such as Asperger's Syndrome, and explores the developmental aspects of trauma throughout the lifespan.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:22:49</itunes:duration>
       <itunes:image href="https://archive.org/services/img/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -97,11 +97,11 @@
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509</link>
       <guid isPermaLink="false">cptsd-aspergers-healing-ch04</guid>
       <dc:creator><![CDATA[CPTSD &amp; Asperger's Healing Series]]></dc:creator>
-      <pubDate>Tue, 02 Sep 2025 11:00:00 AEST</pubDate>
+      <pubDate>Tue, 02 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509/CPTSD%20%26%20Asperger%27s%20Healing%20-%20Ch.%2004_%20Unlock%20Your%20Inner%20World_%20A%20Deep%20Dive%20into%20Trauma%20Healing%20and%20Self-Discovery.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>This episode shifts from theory to practice, offering a range of practical tools and techniques for managing the symptoms of CPTSD and promoting healing. We explore the importance of biological rhythms, such as breathing and sleep, as well as the power of emotional regulation techniques. The episode also introduces the concept of "pendulation" and "titration" from Somatic Experiencing, and provides guidance on how to safely engage with traumatic memories.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:30:38</itunes:duration>
       <itunes:image href="https://archive.org/services/img/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -114,11 +114,11 @@
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509</link>
       <guid isPermaLink="false">cptsd-aspergers-healing-ch05</guid>
       <dc:creator><![CDATA[CPTSD &amp; Asperger's Healing Series]]></dc:creator>
-      <pubDate>Tue, 02 Sep 2025 12:00:00 AEST</pubDate>
+      <pubDate>Tue, 02 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509/CPTSD%20%26%20Asperger%27s%20Healing%20-%20Ch.%2005_%20Mapping%20Your%20Inner%20World_%20Graduating%20from%20Complex%20Trauma%20with%20Self-Conceptualization.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>In this final episode of the series, we explore the process of "self-conceptualization," or developing a coherent and compassionate narrative of our own life story. We discuss how to integrate the insights gained throughout the healing journey into a new sense of self, and how to move from a place of "surviving" to one of "thriving." The episode concludes with a series of inspiring stories and metaphors to guide you on your continued path of growth and self-discovery.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:18:37</itunes:duration>
       <itunes:image href="https://archive.org/services/img/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
