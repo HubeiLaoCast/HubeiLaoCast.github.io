@@ -5,15 +5,15 @@
     <description><![CDATA[A healing journey through complex trauma and Asperger's syndrome. This series explores somatic keys to healing, unlocking self-healing with agency, and rewiring trauma to reclaim your integrated self.
 
 These audio sessions provide guidance for those navigating the intersection of CPTSD and Asperger's, offering practical approaches to healing and integration.]]></description>
-    <link>https://archive.org/details/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</link>
+    <link>https://hubeilaocast.github.io/</link>
     <image>
       <url>https://archive.org/services/img/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</url>
       <title>CPTSD &amp; Asperger's Healing</title>
-      <link>https://archive.org/details/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</link>
+      <link>https://hubeilaocast.github.io/</link>
     </image>
     <generator>HubeiLaoCast RSS Generator</generator>
     <lastBuildDate>Mon, 18 Mar 2024 12:00:00 GMT</lastBuildDate>
-    <atom:link href="rss_en.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://hubeilaocast.github.io/rss_en.xml" rel="self" type="application/rss+xml"/>
     <author><![CDATA[CPTSD &amp; Asperger's Healing Series]]></author>
     <copyright><![CDATA[CPTSD &amp; Asperger's Healing Series]]></copyright>
     <language><![CDATA[en-us]]></language>
@@ -29,11 +29,12 @@ These audio sessions provide guidance for those navigating the intersection of C
       <itunes:category text="Mental Health"/>
     </itunes:category>
     <itunes:image href="https://archive.org/services/img/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers"/>
+    <itunes:new-feed-url>https://hubeilaocast.github.io/rss_en.xml</itunes:new-feed-url>
     
     <item>
       <title><![CDATA[Chapter 01 - Unlocking Self-Healing with Agency and a Spiral Ascent]]></title>
       <description><![CDATA[<p>The first chapter in our healing journey explores how to unlock self-healing through developing agency and understanding the spiral ascent model of recovery. This foundational session sets the stage for deeper healing work.</p>]]></description>
-      <link>https://archive.org/download/beyond-symptoms-self-healing-cptsd-asperger-s-with-somatic-wisdom</link>
+      <link>https://archive.org/details/beyond-symptoms-self-healing-cptsd-asperger-s-with-somatic-wisdom</link>
       <guid isPermaLink="false">cptsd-aspergers-healing-ch01</guid>
       <dc:creator><![CDATA[CPTSD &amp; Asperger's Healing Series]]></dc:creator>
       <pubDate>Mon, 18 Mar 2024 12:00:00 GMT</pubDate>
@@ -41,7 +42,7 @@ These audio sessions provide guidance for those navigating the intersection of C
       <itunes:summary>&lt;p&gt;The first chapter in our healing journey explores how to unlock self-healing through developing agency and understanding the spiral ascent model of recovery. This foundational session sets the stage for deeper healing work.&lt;/p&gt;</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:00:00</itunes:duration>
-      <itunes:image href="https://archive.org/download/beyond-symptoms-self-healing-cptsd-asperger-s-with-somatic-wisdom"/>
+      <itunes:image href="https://archive.org/services/img/beyond-symptoms-self-healing-cptsd-asperger-s-with-somatic-wisdom"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     
