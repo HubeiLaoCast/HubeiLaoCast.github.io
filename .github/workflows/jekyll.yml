@@ -9,16 +9,19 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
-      - uses: actions/cache@v3
+      # This step sets up Ruby and handles caching, replacing the old cache step
+      - name: Setup Ruby and install gems
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          # Use a Ruby version that matches your project's requirements
+          ruby-version: '3.2'
+          # This caches gems to speed up future builds
+          bundler-cache: true 
       
-      - uses: helaili/jekyll-action@v2
+      - name: Build and Deploy
+        uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: gh-pages
