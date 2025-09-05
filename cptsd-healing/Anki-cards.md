@@ -1,3 +1,8 @@
+---
+layout: default
+title: Study Guide - Anki Cards
+---
+
 # Study Guide: Anki Cards
 
 ## Table of Contents

@@ -1,0 +1,38 @@
+# Jekyll configuration
+title: HubeiLaoCast
+description: Podcasts by HubeiLaoCast
+baseurl: ""
+url: "https://hubeilaocast.github.io"
+
+# Prevent Jekyll from processing README.md as a standalone page
+include: ["README.md"]
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - .git/
+  - .github/
+  - vendor/
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-redirect-from
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: true
+
+# Permalink structure
+permalink: pretty
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

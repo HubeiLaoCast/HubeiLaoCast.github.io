@@ -17,8 +17,8 @@ An audio adaptation of the insightful works on Complex Post-Traumatic Stress Dis
 * **Language:** 🇬🇧 English
 * **Status:** Active
 * **Additional Resources:**
-  * [Study Guide: Anki Cards](https://hubeilaocast.github.io/cptsd-healing/Anki-cards.html) - Flashcards for studying key concepts
-  * [Frequently Asked Questions (FAQs)](https://hubeilaocast.github.io/cptsd-healing/FAQs.html) - Answers to common questions about CPTSD healing
+  * [Study Guide: Anki Cards]({% link cptsd-healing/Anki-cards.md %}) - Flashcards for studying key concepts
+  * [Frequently Asked Questions (FAQs)]({% link cptsd-healing/FAQs.md %}) - Answers to common questions about CPTSD healing
 
 #### **How to Subscribe 🎧**
 
