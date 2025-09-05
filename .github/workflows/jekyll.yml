@@ -6,22 +6,25 @@ on:
       - main
 
 jobs:
-  github-pages:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      # This step sets up Ruby and handles caching, replacing the old cache step
-      - name: Setup Ruby and install gems
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby and install gems 💎
         uses: ruby/setup-ruby@v1
         with:
-          # Use a Ruby version that matches your project's requirements
           ruby-version: '3.2'
-          # This caches gems to speed up future builds
-          bundler-cache: true 
-      
-      - name: Build and Deploy
-        uses: helaili/jekyll-action@v2
+          bundler-cache: true # Installs and caches gems
+
+      - name: Build Jekyll site 🏗️
+        run: bundle exec jekyll build
+
+      - name: Deploy to GitHub Pages 🚀
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          # If you're using a custom domain, add it here
+          # cname: your.domain.com
