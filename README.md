@@ -19,6 +19,7 @@ An audio adaptation of the insightful works on Complex Post-Traumatic Stress Dis
 * **Additional Resources:**
   * [Study Guide: Anki Cards]({% link cptsd-healing/Anki-cards.md %}) - Flashcards for studying key concepts
   * [Frequently Asked Questions (FAQs)]({% link cptsd-healing/FAQs.md %}) - Answers to common questions about CPTSD healing
+  * [Self-Help Healing for Asperger's Syndrome & Complex PTSD _ From the Perspective of Somatic Experience]({% link cptsd-healing/Self-Help_Healing_for_Asperger's_Syndrome_&_Complex_PTSD___From_the_Perspective_of_Somatic_Experience.md %}) - Original works of **光瞳** in Chinese
 
 #### **How to Subscribe 🎧**
 
