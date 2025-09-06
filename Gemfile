@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
+gem "jekyll"
 gem "jekyll-relative-links"
 gem "csv"
 gem "logger"
