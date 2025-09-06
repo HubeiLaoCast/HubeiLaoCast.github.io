@@ -10,6 +10,11 @@ include: ["README.md"]
 # Build settings
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  toc_levels: 2..4
+
 # Exclude from processing
 exclude:
   - .git/
