@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns" version="2.0">
+  <channel>
+    <title>FlipRadio Feed - misc</title>
+    <description><![CDATA[【补档/杂项 Feed】此补充 feed 是“翻转电台分类 RSS”项目的一部分，用于查漏补缺。它主要包含因各种原因未能被收录进 `FSTD`、`2.0` 或 `Special` 等主分类 feed 中的单集。如果你发现其他 feed 中缺少了某一集，可以来这里查找。
+
+--- Original FlipRadio Description / 翻转电台原版描述 ---
+
+真理解 • 真感受 • 真实践
+翻转电台希望结合哲学知识资源与今日我们面临的实际问题，为你的生活带来新的视角和想象力。每周更新两次，主体节目，问答节目，特别节目，还有FF30导演的阐释节目。如果想加入群一起讨论，可以添加：xiangjiejoyshare。
+
+大陆听众订阅和播放需要VPN。
+
+[ 欢迎在Patreon和爱发电支持翻转电台 / Welcome to support us on Patreon or Afdian ]
+Patreon: https://www.patreon.com/flipradio
+爱发电 (Afdian): https://afdian.net/@flipradio
+
+感谢对翻转电台的支持。要记得敢于去相信。
+]]></description>
+    <link>https://reurl.cc/yy5Zd6</link>
+    <image>
+      <url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3275363/3275363-1591891593967-007e3273547a9.jpg</url>
+      <title>翻转电台FlipRadio</title>
+      <link>https://reurl.cc/yy5Zd6</link>
+    </image>
+    <generator>Anchor Podcasts</generator>
+    <lastBuildDate>Fri, 14 Feb 2025 18:01:32 GMT</lastBuildDate>
+    <atom:link href="https://anchor.fm/s/141e652c/podcast/rss" rel="self" type="application/rss+xml"/>
+    <author><![CDATA[翻转电台FlipRadio]]></author>
+    <copyright><![CDATA[翻转电台FlipRadio]]></copyright>
+    <language><![CDATA[zh-cn]]></language>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <itunes:author>翻转电台FlipRadio</itunes:author>
+    <itunes:summary>大陆听众订阅和播放需要VPN，已经切换RSS源，以后不会有删除问题。
+
+真理解 • 真感受 • 真实践
+翻转电台希望结合哲学知识资源与今日我们面临的实际问题，为你的生活带来新的视角和想象力。每周更新两次，主体节目，问答节目，特别节目，还有FF30导演的阐释节目。如果想加入群一起讨论，可以添加：xiangjiejoyshare。
+
+[ 欢迎在Patreon和爱发电支持翻转电台 ]
+如果你过去有在Patreon支持其他项目的经验，优先推荐使用Patreon：
+https://www.patreon.com/flipradio
+如果你从来没有在Patreon支持其他项目的经验，可以在爱发电：
+https://afdian.net/@flipradio
+
+感谢对翻转电台的支持。要记得敢于去相信。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>翻转电台FlipRadio</itunes:name>
+      <itunes:email>ansel_li5@126.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3275363/3275363-1591891593967-007e3273547a9.jpg"/>
+    <item>
+      <title><![CDATA[翻电Special 心灵奇旅：虚无主义的美学化 VOL.38]]></title>
+      <description><![CDATA[<p>最近皮克斯的新电影《SOUL（心灵奇旅）》上映在豆瓣获得9.0分的高分。但我却觉得这是个烂片。</p>
+<p>烂片也很多，为何这部值得一讲，那是因为这部烂片带来了坏影响，其逻辑是一种虚无主义的美学化尝试，这种尝试塑造着一种坏神话，而这种神话会遮蔽我们的生活。</p>
+<p>今天的内容包括：</p>
+<p>1 两个主人公塑造的分析</p>
+<p>2 电影对纽约和世界的塑造</p>
+<p>3 电影中转折和生活解法的轻率</p>
+<p>4 虚无主义神话的害处</p>
+<p>5 《神奇女侠1984》的立意高明</p>
+]]></description>
+      <link>https://podcasters.spotify.com/pod/show/flipradio/episodes/Special--VOL-38-eoemkm</link>
+      <guid isPermaLink="false">75bec11d-643c-4c8f-afd1-6b217f49f89b</guid>
+      <dc:creator><![CDATA[翻转电台FlipRadio]]></dc:creator>
+      <pubDate>Fri, 01 Jan 2021 18:17:50 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/141e652c/podcast/play/24647766/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2F79a7c9bd-b20d-65be-ef99-5cc1c499385e.mp3" length="52125173" type="audio/mpeg"/>
+      <itunes:summary>&lt;p&gt;最近皮克斯的新电影《SOUL（心灵奇旅）》上映在豆瓣获得9.0分的高分。但我却觉得这是个烂片。&lt;/p&gt;
+&lt;p&gt;烂片也很多，为何这部值得一讲，那是因为这部烂片带来了坏影响，其逻辑是一种虚无主义的美学化尝试，这种尝试塑造着一种坏神话，而这种神话会遮蔽我们的生活。&lt;/p&gt;
+&lt;p&gt;今天的内容包括：&lt;/p&gt;
+&lt;p&gt;1 两个主人公塑造的分析&lt;/p&gt;
+&lt;p&gt;2 电影对纽约和世界的塑造&lt;/p&gt;
+&lt;p&gt;3 电影中转折和生活解法的轻率&lt;/p&gt;
+&lt;p&gt;4 虚无主义神话的害处&lt;/p&gt;
+&lt;p&gt;5 《神奇女侠1984》的立意高明&lt;/p&gt;
+</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:43:26</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/3275363/3275363-1609525078471-1bc2cdcdc92f5.jpg"/>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
