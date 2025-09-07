@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[大野人]]></title>
+		<description><![CDATA[Share thoughts, stories, and interesting content.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/hubeilaocast</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 05 Sep 2025 03:31:13 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/109088a2c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[HubeiLaoCast]]></author>
+		<copyright><![CDATA[HubeiLaoCast]]></copyright>
+		<language><![CDATA[zh-tw]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>HubeiLaoCast</itunes:author>
+		<itunes:summary>Share thoughts, stories, and interesting content.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>HubeiLaoCast</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Education">
+			<itunes:category text="Self-Improvement"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44365219/44365219-1757040936379-18f54618d8892.jpg"/>
+		<item>
+			<title><![CDATA[重审“抗战中流砥柱”]]></title>
+			<description><![CDATA[<p>每周一、周三、周五早上东八区9点左右更新三期<br>三位主持人：<br>伍雷：中国律师，一根筋的法律人，可以被打倒，但绝不会放弃<br>可以YouTube搜索：东京人文论坛<br>贾葭：禁书作家兼吃货，猫奴， 前新闻人，禁书作家，知食分子，YouTuber<br>可以在YouTube搜索：jajiai<br>李厚辰：边缘知识分子，Podcast，YouTuber，写作全栈创作，节目里那只狗的父亲<br>可以在YouTube搜索：世界苦茶<br>祝大家一周愉快</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hubeilaocast/episodes/ep-e37qgai</link>
+			<guid isPermaLink="false">e696faca-0466-4736-a2ce-5906244c8963</guid>
+			<dc:creator><![CDATA[HubeiLaoCast]]></dc:creator>
+			<pubDate>Fri, 05 Sep 2025 03:17:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/109088a2c/podcast/play/107872018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F18eca7df-f77d-c863-b5dc-0446b207354e.m4a" length="41575099" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;每周一、周三、周五早上东八区9点左右更新三期&lt;br&gt;三位主持人：&lt;br&gt;伍雷：中国律师，一根筋的法律人，可以被打倒，但绝不会放弃&lt;br&gt;可以YouTube搜索：东京人文论坛&lt;br&gt;贾葭：禁书作家兼吃货，猫奴， 前新闻人，禁书作家，知食分子，YouTuber&lt;br&gt;可以在YouTube搜索：jajiai&lt;br&gt;李厚辰：边缘知识分子，Podcast，YouTuber，写作全栈创作，节目里那只狗的父亲&lt;br&gt;可以在YouTube搜索：世界苦茶&lt;br&gt;祝大家一周愉快&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:21:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44365219/44365219-1757040936379-18f54618d8892.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
