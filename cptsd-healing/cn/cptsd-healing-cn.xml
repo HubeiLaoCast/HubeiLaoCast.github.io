@@ -16,11 +16,11 @@
     <copyright><![CDATA[© 2025 hubeilaocast. 播客的内容完全基于<a href="https://www.zhihu.com/people/alexcma">光瞳</a>的原创作品，这些作品最初在其知乎和微信公众号上免费分享。所有原创文字内容的版权归属于原作者。]]></copyright>
     <language><![CDATA[zh-cn]]></language>
     <itunes:author>Podcast by: hubeilaocast (湖北佬); Original Content by: 光瞳</itunes:author>
-    <itunes:summary>这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者<a href="https://www.zhihu.com/people/alexcma">光瞳</a>令人惊叹的作品。</itunes:summary>
+    <itunes:summary><![CDATA[这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者<a href="https://www.zhihu.com/people/alexcma">光瞳</a>令人惊叹的作品。]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>hubeilaocast (湖北佬)</itunes:name>
-      <itunes:email>contact@example.com</itunes:email>
+      <itunes:email>hubeilaocast@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Education">
@@ -35,47 +35,47 @@
 <p>接着，我们探讨"自我责任"这个重要概念，将其与有害的"受害者指责"区分开来。承担责任并不是要为创伤本身负责，而是要认识到自己在康复过程中的主动性和力量。这种观点的转变对于从"受害者"心态转向"幸存者"心态至关重要。</p>
 <p>本集还介绍了两个强大的心理框架："全力奋斗精神"，帮助我们理解可能阻碍康复的非黑即白思维方式，以及"持久战精神"，为长期康复提供了一个更可持续和富有同情心的方法。最后，我们谈到"硬件系统"和"软件系统"的类比，以理解我们的生物学和社会经验之间的相互作用，以及来自积极心理学的"连续性观点"，它挑战了对"正常"和"异常"的僵化定义。</p>]]></description>
       <link>https://archive.org/download/ch-04.-cptsd/Ch%2001.%20%E8%B5%B0%E5%87%BA%E5%88%9B%E4%BC%A4%E8%BF%B7%E9%9B%BE%EF%BC%9A%E8%87%AA%E6%88%91%E7%96%97%E6%84%88%E7%9A%84%E4%BA%BA%E6%80%A7%E5%9F%BA%E7%9F%B3%E3%80%81%E6%A1%86%E6%9E%B6%E4%B8%8E%E8%BA%AB%E5%BF%83%E6%95%B4%E5%90%88%E4%B9%8B%E9%81%93.m4a</link>
-      <guid isPermaLink="false">cptsd-aspergers-healing-ch01</guid>
+      <guid isPermaLink="true">https://hubeilaocast.github.io/cptsd-healing/cn/episodes/ep01-foundations-of-healing</guid>
       <dc:creator><![CDATA[CPTSD 疗愈系列]]></dc:creator>
       <pubDate>Sun, 07 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/ch-04.-cptsd/Ch%2001.%20%E8%B5%B0%E5%87%BA%E5%88%9B%E4%BC%A4%E8%BF%B7%E9%9B%BE%EF%BC%9A%E8%87%AA%E6%88%91%E7%96%97%E6%84%88%E7%9A%84%E4%BA%BA%E6%80%A7%E5%9F%BA%E7%9F%B3%E3%80%81%E6%A1%86%E6%9E%B6%E4%B8%8E%E8%BA%AB%E5%BF%83%E6%95%B4%E5%90%88%E4%B9%8B%E9%81%93.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>本集为整个系列奠定基础，探索自助和创伤疗愈的基本原则。我们讨论人类天生的亲社会性本质，自我责任（而非受害者指责）的关键作用，以及从"受害者"到"幸存者"的身份转变。本集还介绍了"全力奋斗精神"和"持久战精神"等关键概念，为理解疗愈之旅提供了新的框架。</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:15:41</itunes:duration>
+      <itunes:duration>00:25:47</itunes:duration>
       <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
-      <title><![CDATA[Ch. 02: 解密“交流圈”：你的感知、情绪与现实，如何被“活动性”重塑？]]></title>
+      <title><![CDATA[Ch. 02: 解密"交流圈"：你的感知、情绪与现实，如何被"活动性"重塑？]]></title>
       <description><![CDATA[<p>在本集中，我们探讨"互动循环"这个基本概念，以及它如何构成我们现实的基础。我们了解到每一次互动，无论是与环境还是与他人的互动，都会创造一个反馈循环，塑造我们随后的思想、感受和行动。这个概念借鉴自自闭症的Son-Rise项目，为我们理解如何发展和适应提供了强大的视角。</p>
 <p>然后，我们分解人类活动的不同层次，从最小的"微观活动"到最复杂的"社交活动"。这个层级模型帮助我们理解我们的内部状态，如情绪和身体感觉，如何影响我们的外部行为，反之亦然。我们还讨论了感知的作用，以及我们的大脑如何过滤和解释感官信息，创造我们对世界的主观体验。</p>
 <p>最后，我们研究创伤如何打断这些自然过程，导致我们的内部和外部世界之间的断裂。我们探讨"情绪状态"、"行为冲动"和"概念化"等概念，以及它们在创伤后如何变得扭曲。通过理解这些动态，我们可以开始识别我们困扰的根源，并发展更有效的康复策略。</p>]]></description>
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</link>
-      <guid isPermaLink="false">cptsd-aspergers-healing-ch02</guid>
+      <guid isPermaLink="true">https://hubeilaocast.github.io/cptsd-healing/cn/episodes/ep02-interaction-cycles</guid>
       <dc:creator><![CDATA[CPTSD 疗愈系列]]></dc:creator>
       <pubDate>Sun, 07 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/ch-04.-cptsd/Ch%2002.%20%E8%A7%A3%E5%AF%86%E2%80%9C%E4%BA%A4%E6%B5%81%E5%9C%88%E2%80%9D%EF%BC%9A%E4%BD%A0%E7%9A%84%E6%84%9F%E7%9F%A5%E3%80%81%E6%83%85%E7%BB%AA%E4%B8%8E%E7%8E%B0%E5%AE%9E%EF%BC%8C%E5%A6%82%E4%BD%95%E8%A2%AB%E2%80%9C%E6%B4%BB%E5%8A%A8%E6%80%A7%E2%80%9D%E9%87%8D%E5%A1%91%EF%BC%9F.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>本集介绍"互动循环"概念作为理解所有人类经验的基础。我们探索这些循环如何塑造我们的感知、情绪和行为，无论是在内部还是在与他人的关系中。本集还分解了人类活动的不同层次，从微观动作到复杂的社交互动，并探讨创伤如何打断这些过程。</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:duration>00:18:27</itunes:duration>
       <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
-      <title><![CDATA[Ch. 03: 冲破“卡住”的僵局：解锁CPTSD与内在“拧巴”的身体智慧]]></title>
+      <title><![CDATA[Ch. 03: 冲破"卡住"的僵局：解锁CPTSD与内在"拧巴"的身体智慧]]></title>
       <description><![CDATA[<p>在本集中，我们深入探讨创伤的本质及其对人类心理的深远影响。我们首先定义"压力"和"应对"，以及自助过程如何涉及使用我们的主动性来调节自动压力反应。然后，我们介绍"创伤"作为一种"卡住"或"分离"状态的概念，在这种状态下，自然的压力反应无法完成，使我们处于慢性过度激活或低度激活状态。</p>
 <p>接着，我们区分"急性创伤"（第一类）和"复杂创伤"（第二类），强调从慢性、关系性创伤中恢复的独特挑战。我们还探讨创伤的各个"层次"，从"自我创伤"到"社会创伤"，以及这些不同经历如何相互作用和叠加。</p>
 <p>本集最后讨论了CPTSD和阿斯伯格综合症（AS）之间的关系，以及这两种状况如何难以区分。我们还触及创伤的发展方面，以及早期生活经历如何塑造我们在以后生活中对创伤的脆弱性。通过对创伤机制的深入理解，我们可以开始以更大的同理心和清晰度来处理自己的康复。</p>]]></description>
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-02-unpacking-somatic-keys-to-healing-complex-trauma-and-aspergers</link>
-      <guid isPermaLink="false">cptsd-aspergers-healing-ch03</guid>
+      <guid isPermaLink="true">https://hubeilaocast.github.io/cptsd-healing/cn/episodes/ep03-breaking-through-stuckness</guid>
       <dc:creator><![CDATA[CPTSD 疗愈系列]]></dc:creator>
       <pubDate>Sun, 07 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/ch-04.-cptsd/Ch%2003.%20%E5%86%B2%E7%A0%B4%E2%80%9C%E5%8D%A1%E4%BD%8F%E2%80%9D%E7%9A%84%E5%83%B5%E5%B1%80%EF%BC%9A%E8%A7%A3%E9%94%81CPTSD%E4%B8%8E%E5%86%85%E5%9C%A8%E2%80%9C%E6%8B%A7%E5%B7%B4%E2%80%9D%E7%9A%84%E8%BA%AB%E4%BD%93%E6%99%BA%E6%85%A7.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>本集详细探讨复杂性创伤后应激障碍（CPTSD），将其与经典PTSD区分开来。我们研究不同类型的创伤，从急性的单一事件创伤到构成CPTSD特征的慢性关系创伤。本集还讨论了CPTSD与其他状况（如阿斯伯格综合症）的共病性，并探索了创伤在整个生命历程中的发展方面。</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:duration>00:18:00</itunes:duration>
       <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -86,30 +86,30 @@
 <p>然后，我们深入探讨"情绪调节"的世界，以及我们如何学会识别、理解和管理我们的情绪状态。我们讨论"观察者自我"的角色，以及我们如何培养对自己内在体验的慈悲和非判断态度。我们还探讨"摆动"和"滴定"的概念，这是来自躯体体验疗法的两个关键原则，可以帮助我们安全地处理创伤记忆而不会被压倒。</p>
 <p>本集最后讨论了"接地"和"中心化"技术的重要性，以及"积极心理学"在培养韧性和幸福感中的作用。通过将这些工具融入我们的日常生活，我们可以开始从内部创造安全感和稳定感，为更深层次的康复和转变铺平道路。</p>]]></description>
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509</link>
-      <guid isPermaLink="false">cptsd-aspergers-healing-ch04</guid>
+      <guid isPermaLink="true">https://hubeilaocast.github.io/cptsd-healing/cn/episodes/ep04-practical-healing-guide</guid>
       <dc:creator><![CDATA[CPTSD 疗愈系列]]></dc:creator>
       <pubDate>Sun, 07 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/ch-04.-cptsd/Ch%2004.%20%E8%A7%A3%E9%94%81%E5%A4%8D%E6%9D%82%E5%88%9B%E4%BC%A4CPTSD%EF%BC%9A%E4%BB%8E%E8%BA%AB%E4%BD%93%E5%BE%8B%E5%8A%A8%E5%88%B0%E6%80%9D%E7%BB%B4%E9%87%8D%E6%9E%84%EF%BC%8C%E6%B7%B1%E5%BA%A6%E8%87%AA%E6%88%91%E7%96%97%E6%84%88%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>本集从理论转向实践，提供了一系列管理CPTSD症状和促进疗愈的实用工具和技巧。我们探索生物节律（如呼吸和睡眠）的重要性，以及情绪调节技巧的力量。本集还介绍了来自躯体体验疗法的"摆动"和"滴定"概念，并提供了如何安全地处理创伤记忆的指导。</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:duration>00:30:54</itunes:duration>
       <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     
     <item>
-      <title><![CDATA[Ch. 05: 告别CPTSD：一场个体心灵的史诗，从“康复”到“毕业”的自我概念化与创伤后成长]]></title>
+      <title><![CDATA[Ch. 05: 告别CPTSD：一场个体心灵的史诗，从"康复"到"毕业"的自我概念化与创伤后成长]]></title>
       <description><![CDATA[<p>在这最后一集中，我们探讨创伤康复的终极目标：发展一个新的、赋能的"自我概念化"。这不是要创造一个虚构的叙事，而是要将我们经历的碎片编织成一个连贯而有意义的整体。我们讨论"意义创造"在康复过程中的重要性，以及我们如何在困境中找到目的和价值。</p>
 <p>本集然后呈现一系列"觉醒时刻"——展示康复过程的生动故事和片段。这些基于真实生活经历的故事，让我们一瞥自我同理心、勇气和连接的转化力量。从面对恐惧时的"勇敢颤抖"到与自己身体重新连接时的"喜悦重聚"，这些故事为前方的旅程提供了路线图。</p>
 <p>最后，我们讨论从CPTSD"毕业"意味着什么。这不是关于被"治愈"或"修复"，而是关于达到一个更大程度的整合、韧性和自我接纳的状态。我们以希望和鼓励的信息结束，提醒你康复之旅是一个终身的成长和发现过程。</p>]]></description>
       <link>https://archive.org/details/cptsd-aspergers-healing-ch.-04-unlock-your-inner-world-a-deep-dive-into-trauma-h_202509</link>
-      <guid isPermaLink="false">cptsd-aspergers-healing-ch05</guid>
+      <guid isPermaLink="true">https://hubeilaocast.github.io/cptsd-healing/cn/episodes/ep05-graduation-and-growth</guid>
       <dc:creator><![CDATA[CPTSD 疗愈系列]]></dc:creator>
       <pubDate>Sun, 07 Sep 2025</pubDate>
       <enclosure url="https://archive.org/download/ch-04.-cptsd/Ch%2005.%20%E5%91%8A%E5%88%ABCPTSD%EF%BC%9A%E4%B8%80%E5%9C%BA%E4%B8%AA%E4%BD%93%E5%BF%83%E7%81%B5%E7%9A%84%E5%8F%B2%E8%AF%97%EF%BC%8C%E4%BB%8E%E2%80%9C%E5%BA%B7%E5%A4%8D%E2%80%9D%E5%88%B0%E2%80%9C%E6%AF%95%E4%B8%9A%E2%80%9D%E7%9A%84%E8%87%AA%E6%88%91%E6%A6%82%E5%BF%B5%E5%8C%96%E4%B8%8E%E5%88%9B%E4%BC%A4%E5%90%8E%E6%88%90%E9%95%BF.m4a" length="0" type="audio/mp4"/>
       <itunes:summary>在本系列的最后一集中，我们探索"自我概念化"的过程，即发展一个连贯且富有同理心的自我生命故事叙事。我们讨论如何将在疗愈之旅中获得的洞见整合到新的自我感中，以及如何从"生存"状态转向"茁壮成长"状态。本集以一系列鼓舞人心的故事和比喻结束，指引你继续前进在成长和自我发现的道路上。</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:18:37</itunes:duration>
+      <itunes:duration>00:27:04</itunes:duration>
       <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
