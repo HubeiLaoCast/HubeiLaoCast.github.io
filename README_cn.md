@@ -37,7 +37,7 @@ https://anchor.fm/s/109088a2c/podcast/rss
 这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**令人惊叹的作品。
 
 * **语言：** 普通话
-* **状态：** 已发布
+* **状态：** 即将推出
 * **额外资源：**
   * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（本站）]({% link cptsd-healing/Self-Help_Healing_for_Asperger's_Syndrome_&_Complex_PTSD___From_the_Perspective_of_Somatic_Experience.md %}) - 综合了 **光瞳** 发布在知乎专栏与微信公众号的文本，备份于本站
   * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（知乎）](https://zhuanlan.zhihu.com/p/687506561) - **光瞳** 发布在知乎专栏的版本
@@ -48,9 +48,7 @@ https://anchor.fm/s/109088a2c/podcast/rss
 
 **RSS 订阅链接：**
 
-```
-https://hubeilaocast.github.io/cptsd-healing/cn/cptsd-healing-cn.xml
-```
+即将推出
 
 ---
 
