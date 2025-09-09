@@ -3,14 +3,8 @@ layout: default
 title: Frequently Asked Questions (FAQs)
 ---
 
-# Frequently Asked Questions (FAQs)
-
-## Table of Contents
-- [Chapter 1: Holistic Healing](#chapter-1-holistic-healing-pathways-to-integration-and-growth)
-- [Chapter 2: Unraveling Human Experience](#chapter-2-unraveling-human-experience-interactive-loops-and-mind-body-states)
-- [Chapter 3: Understanding CPTSD](#chapter-3-understanding-cptsd-key-concepts-and-manifestations)
-- [Chapter 4: CPTSD Healing](#chapter-4-cptsd-healing-rhythms-somatics-and-self-regulation)
-- [Chapter 5: Journey to Self-Conceptualization](#chapter-5-journey-to-self-conceptualization-graduating-from-cptsd)
+* TOC
+{:toc}
 
 ---
 

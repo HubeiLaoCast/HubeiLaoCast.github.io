@@ -3,14 +3,8 @@ layout: default
 title: Study Guide - Anki Cards
 ---
 
-# Study Guide: Anki Cards
-
-## Table of Contents
-- [Chapter 1: Self-Help and Trauma Recovery](#chapter-1-self-help-and-trauma-recovery)
-- [Chapter 2: Understanding Interaction Loops, Perception, Activity, Emotion, and Psychological States](#chapter-2-understanding-interaction-loops-perception-activity-emotion-and-psychological-states)
-- [Chapter 3: CPTSD, Trauma, and Adaptation](#chapter-3-cptsd-trauma-and-adaptation)
-- [Chapter 4: CPTSD Self-Healing](#chapter-4-cptsd-self-healing)
-- [Chapter 5: Self-Conceptualization and Overcoming CPTSD](#chapter-5-self-conceptualization-and-overcoming-cptsd)
+* TOC
+{:toc}
 
 ---
 
