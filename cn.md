@@ -17,7 +17,7 @@ title: CPTSD Healing Resources
 
 ### 1. CPTSD 疗愈
 
-这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**令人惊叹的作品。
+这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**触动人心的作品。
 
 * **语言：** 普通话
 * **状态：** 即将推出
@@ -74,7 +74,7 @@ https://hubeilaocast.github.io/flipradio/Special.xml
 
 ## 内容及版权说明
 
-**CPTSD 疗愈**播客的内容完全基于**[光瞳](https://www.zhihu.com/people/alexcma)**的原创作品，这些作品最初在其知乎和微信公众号上免费分享。所有原创文字内容的版权归属于原作者。
+**CPTSD 疗愈**播客的内容完全基于**[光瞳](https://www.zhihu.com/people/alexcma)**的原创作品，这些作品在其知乎和微信公众号上免费分享。所有原创文字内容的版权归属于原作者。
 
 **FlipRadio** 的内容版权归属于原作者**[李厚辰](https://m.douban.com/people/1405638/)**。本项目仅提供 RSS 订阅源的分类整理服务，不对原始内容进行任何修改或重新分发。
 
