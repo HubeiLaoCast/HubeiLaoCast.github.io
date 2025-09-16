@@ -31,7 +31,7 @@ title: CPTSD Healing Resources
 **RSS 订阅链接：**
 
 ```
-https://hubeilaocast.github.io/cptsd-healing/cn/cptsd-healing-cn.xml
+https://feed.podbean.com/hubeilaocast/feed.xml
 ```
 
 ---
