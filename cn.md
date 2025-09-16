@@ -15,24 +15,7 @@ title: CPTSD Healing Resources
 
 ## 我们的播客
 
-### 1. 大野人
-
-致力于分享网络上有价值和有见地的内容，包括但不限于科技、文化和社会话题。
-
-* **语言：** 普通话
-* **状态：** 活跃
-
-#### **如何订阅 🎧**
-
-要收听节目，请复制下方的 RSS 订阅链接，并将其粘贴到你喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
-
-**RSS 订阅链接：**
-
-```
-https://anchor.fm/s/109088a2c/podcast/rss
-```
-
-### 2. CPTSD 疗愈
+### 1. CPTSD 疗愈
 
 这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**令人惊叹的作品。
 
@@ -52,7 +35,7 @@ https://anchor.fm/s/109088a2c/podcast/rss
 
 ---
 
-### 3. 🎙️ FlipRadio 分类 RSS 订阅源  
+### 2. 🎙️ FlipRadio 分类 RSS 订阅源  
 
 这里提供多个按类别划分的 RSS 订阅源，来自 **[FlipRadio](https://www.youtube.com/playlist?list=PLxfcznuBUN2AaOeUu1q03ccPf6XSJx8Ee)** 播客，以便用户更轻松地找到感兴趣的节目。  
 
@@ -65,16 +48,27 @@ https://anchor.fm/s/109088a2c/podcast/rss
 
 **RSS 订阅链接：**
 
-- [FSTD.xml](https://hubeilaocast.github.io/flipradio/FSTD.xml)
-- [2.0.xml](https://hubeilaocast.github.io/flipradio/2.0.xml)
-- [Special.xml](https://hubeilaocast.github.io/flipradio/Special.xml)
+- 📌 **FSTD** → 标题包含 **"FSTD"** 的节目  :
+
+```
+https://hubeilaocast.github.io/flipradio/FSTD.xml
+```
+
+- 📌 **2.0** → 标题包含 **"2.0"** 的节目  :
+
+```
+https://hubeilaocast.github.io/flipradio/2.0.xml
+```
+
+- 📌 **Special** → 标题包含 **"Special"** 的节目  :
+
+```
+https://hubeilaocast.github.io/flipradio/Special.xml
+```
 
 #### 🔄 运行机制  
 
-根据 **标题关键词** 自动筛选 **[FlipRadio](https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375)** 原始 RSS 订阅源中的播客：  
-- 📌 **FSTD.xml** → 标题包含 **"FSTD"** 的节目  
-- 📌 **2.0.xml** → 标题包含 **"2.0"** 的节目  
-- 📌 **Special.xml** → 标题包含 **"Special"** 的节目  
+根据 **标题关键词** 自动筛选 **[FlipRadio](https://www.xiaoyuzhoufm.com/podcast/5e4ff468418a84a046973375)** 原始 RSS 订阅源中的播客
 
 ---
 
