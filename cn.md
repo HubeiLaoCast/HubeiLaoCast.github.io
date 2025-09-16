@@ -20,7 +20,6 @@ title: CPTSD Healing Resources
 这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**触动人心的作品。
 
 * **语言：** 普通话
-* **状态：** 即将推出
 * **额外资源：**
   * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（本站）]({% link cptsd-healing/Self-Help_Healing_for_Asperger's_Syndrome_&_Complex_PTSD___From_the_Perspective_of_Somatic_Experience.md %}) - 综合了 **光瞳** 发布在知乎专栏与微信公众号的文本，备份于本站
   * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（知乎）](https://zhuanlan.zhihu.com/p/687506561) - **光瞳** 发布在知乎专栏的版本
@@ -31,7 +30,9 @@ title: CPTSD Healing Resources
 
 **RSS 订阅链接：**
 
-即将推出
+```
+https://hubeilaocast.github.io/cptsd-healing/cn/cptsd-healing-cn.xml
+```
 
 ---
 
@@ -40,7 +41,6 @@ title: CPTSD Healing Resources
 这里提供多个按类别划分的 RSS 订阅源，来自 **[FlipRadio](https://www.youtube.com/playlist?list=PLxfcznuBUN2AaOeUu1q03ccPf6XSJx8Ee)** 播客，以便用户更轻松地找到感兴趣的节目。  
 
 * **语言：** 普通话
-* **状态：** 已发布
 
 #### **如何订阅 🎧**
 
