@@ -122,3 +122,56 @@ hr {
     color: #6a737d;
     font-size: 0.9em;
 }
+
+// This is the container Jekyll's highlighter creates
+div.highlight {
+  position: relative; // Needed to position the button
+}
+
+// Style for the new icon button
+.copy-code-button {
+  // --- Positioning ---
+  position: absolute;
+  top: 0.5rem;    // A little space from the top
+  right: 0.5rem;   // A little space from the right
+  
+  // --- Look & Feel ---
+  background: transparent;
+  border: none;
+  padding: 0.5rem;         // Makes it easier to click
+  border-radius: 4px;      // Soft rounded corners
+  cursor: pointer;
+  
+  // --- Icon Color & Transitions ---
+  color: #888; // Default icon color (a subtle gray)
+  transition: opacity 0.2s ease, color 0.2s ease, background 0.2s ease;
+  
+  // --- Hide until hover ---
+  opacity: 0;
+}
+
+// Show the button on hover
+div.highlight:hover .copy-code-button {
+  opacity: 1;
+}
+
+// Style the button on its own hover
+.copy-code-button:hover {
+  color: #eee; // Brighter icon on hover
+  background: rgba(255, 255, 255, 0.1); // Faint background glow
+}
+
+// --- Style the SVG icon itself ---
+.copy-code-button svg {
+  width: 1.25em;     // Makes icon slightly larger than text
+  height: 1.25em;
+  stroke: currentColor; // This makes the SVG use the button's 'color'
+  stroke-width: 2;
+  fill: none;
+}
+
+// --- "Copied!" Feedback State ---
+.copy-code-button.copied {
+  color: #4CAF50; // A nice success green
+  opacity: 1;      // Keep it visible
+}

@@ -1,6 +1,6 @@
 # Welcome to Hubeilaocast Podcasts 🎙️
 
-📖 **[简体中文]({% link README_cn.md %}) version available.**  
+📖 **[简体中文]({% link cn.md %}) version available.**  
 
 Hello and welcome!
 
@@ -28,7 +28,9 @@ To listen, copy the RSS feed link below and paste it into the "Add Podcast by UR
 
 **RSS Feed Link:**
 
+```
 https://hubeilaocast.github.io/cptsd-healing-en.xml
+```
 
 ---
 

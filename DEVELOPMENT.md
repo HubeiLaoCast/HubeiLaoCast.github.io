@@ -13,7 +13,7 @@ This repository uses Jekyll to automatically convert Markdown files to HTML for 
 For mingw64 on windows:
 
    ```
-   pacman -S --needed base-devel mingw-w64-x86_64-toolchain
+   pacman -S --needed base-devel mingw-w64-x86_64-toolchain mingw-w64-x86_64-ruby
    ```
 
 ### Setup
@@ -47,17 +47,20 @@ layout: default
 title: Your Page Title
 ---
 
-# Your Page Title
+* TOC
+{:toc}
+
+---
 
 Content goes here...
 ```
 
 ### Linking to Pages
 
-Use standard Markdown links to reference other pages:
+Use standard Markdown links with Jekyll syntax to reference other pages:
 
 ```markdown
-[Link Text](path/to/page.md)
+[Link Text]({% link path/to/page.md %})
 ```
 
 Jekyll will automatically convert these to the correct HTML links.
