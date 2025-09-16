@@ -1,9 +1,7 @@
 ---
 layout: default
-title: CPTSD Healing Resources
+title: 欢迎来到湖北佬播客 🎙️
 ---
-
-# 欢迎来到湖北佬播客 🎙️
 
 你好，欢迎！
 
