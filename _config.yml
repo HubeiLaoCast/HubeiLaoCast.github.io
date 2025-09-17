@@ -10,10 +10,15 @@ include: ["README.md"]
 # Build settings
 markdown: kramdown
 
+collections:
+  cptsd_healing:
+    output: true       # This tells Jekyll to create a separate page for each chapter
+    sort_by: order     # This tells Jekyll to sort the chapters by the 'order' key
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  toc_levels: 2..4
+  toc_levels: 3..4
 
 # Exclude from processing
 exclude:
@@ -36,8 +41,8 @@ permalink: pretty
 
 # Default front matter
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
+  - scope:
+      path: ""                # Apply to all files...
+      type: "cptsd_healing"   # ...but only in this collection
     values:
-      layout: "default"
+      layout: "chapter"       # Set their default layout to "chapter"

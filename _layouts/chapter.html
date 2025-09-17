@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% comment %}
+  --- 1. MANUAL NEXT/PREVIOUS LOGIC ---
+  
+  Get all pages in the collection.
+  Sort them by 'part_order' (the secondary key) first.
+  Then, sort them by 'chapter_order' (the primary key).
+{% endcomment %}
+{% assign all_pages = site.cptsd_healing | sort: 'part_order' | sort: 'chapter_order' %}
+
+{% comment %}
+  2. Loop through the fully sorted list to find the current page.
+{% endcomment %}
+{% for item in all_pages %}
+  {% if item.url == page.url %}
+    {% assign current_page_index = forloop.index0 %}
+    
+    {% comment %}
+      3. Once found, assign the 'previous' and 'next' items
+         based on their index in the list.
+    {% endcomment %}
+    {% if current_page_index > 0 %}
+      {% assign previous_page_index = current_page_index | minus: 1 %}
+      {% assign previous_page = all_pages[previous_page_index] %}
+    {% endif %}
+    
+    {% assign next_page_index = current_page_index | plus: 1 %}
+    {% if next_page_index < all_pages.size %}
+      {% assign next_page = all_pages[next_page_index] %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+
+<article>
+  {{ content }}
+  
+  <hr>
+  
+  <nav>
+    <ul style="list-style-type: none; padding-left: 0; display: flex; justify-content: space-between;">
+      
+      <li>
+        {% if previous_page %}
+          <a href="{{ previous_page.url | relative_url }}">
+            &laquo; 上一章节: {{ previous_page.title }}
+          </a>
+        {% endif %}
+      </li>
+      
+      <li style="text-align: center;">
+        <a href="{% link cptsd_healing.md %}">
+          (回到目录)
+        </a>
+      </li>
+
+      <li>
+        {% if next_page %}
+          <a href="{{ next_page.url | relative_url }}">
+            下一章节: {{ next_page.title }} &raquo;
+          </a>
+        {% endif %}
+      </li>
+
+    </ul>
+  </nav>
+</article>

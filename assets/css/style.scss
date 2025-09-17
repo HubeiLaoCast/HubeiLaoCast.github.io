@@ -175,3 +175,48 @@ div.highlight:hover .copy-code-button {
   color: #4CAF50; // A nice success green
   opacity: 1;      // Keep it visible
 }
+
+/*
+ * Styling for the FOLDABLE ON-PAGE TOC
+ * (Fixes the "hideous" list)
+*/
+#markdown-toc {
+  list-style: none;
+  padding-left: 0;
+}
+
+#markdown-toc li {
+  padding: 5px 0;
+  padding-left: 20px; // Indent sub-items
+  position: relative; // Needed for the '::before'
+}
+
+#markdown-toc ul {
+  list-style: none;
+  padding-left: 15px; // Further indent nested lists
+  display: none; // Hide nested lists by default
+}
+
+/* This is the clickable 'parent' item */
+#markdown-toc li.has-nested {
+  cursor: pointer;
+}
+
+/* The '▶' and '▼' triangles */
+#markdown-toc li.has-nested > a::before {
+  content: '▶ ';
+  font-size: 0.8em;
+  position: absolute;
+  left: 0;
+  top: 7px;
+  color: #888;
+}
+
+/* When the item is open, show the '▼' and the nested list */
+#markdown-toc li.has-nested.open > a::before {
+  content: '▼ ';
+}
+
+#markdown-toc li.has-nested.open > ul {
+  display: block;
+}
