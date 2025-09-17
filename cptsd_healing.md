@@ -15,7 +15,7 @@ layout: default
 {% endcomment %}
 {% assign pages_by_chapter = all_pages_sorted | group_by: 'chapter_title' %}
 
-<h2>Table of Contents</h2>
+<h2>目录</h2>
 
 <ul style="list-style-type: none; padding-left: 0;">
   {% for chapter in pages_by_chapter %}
