@@ -3,7 +3,6 @@ title: 复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗�
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
 <p>Original works of <strong>光瞳</strong> in Chinese</p>
 
 {% comment %}
