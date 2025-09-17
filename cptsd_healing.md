@@ -3,7 +3,7 @@ title: 复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗�
 layout: default
 ---
 
-<p>Original works of <strong>光瞳</strong> in Chinese</p>
+<p>综合了 <a href="https://www.zhihu.com/people/alexcma">光瞳</a> 发布在知乎专栏与微信公众号的文本，备份于本站</p>
 
 {% comment %}
   1. Sort ALL pages by chapter, then part.
