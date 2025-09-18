@@ -1,48 +1,76 @@
-# Jekyll configuration
+# -----------------------------------------------------------------------------
+# Site Settings
+# -----------------------------------------------------------------------------
+
 title: HubeiLaoCast
 description: Podcasts by HubeiLaoCast
-baseurl: ""
 url: "https://hubeilaocast.github.io"
+baseurl: ""
 
-# Prevent Jekyll from processing README.md as a standalone page
-include: ["README.md"]
+# -----------------------------------------------------------------------------
+# Build Settings
+# -----------------------------------------------------------------------------
 
-# Build settings
 markdown: kramdown
-
-collections:
-  cptsd_healing:
-    output: true       # This tells Jekyll to create a separate page for each chapter
-    sort_by: order     # This tells Jekyll to sort the chapters by the 'order' key
+permalink: pretty
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  toc_levels: 2..4
+  toc_levels: 2..4 # Sets the on-page {:toc} to use h2, h3, and h4
 
-# Exclude from processing
-exclude:
-  - .git/
-  - .github/
-  - vendor/
-
-# Plugins
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
 
-# Enable relative links
 relative_links:
   enabled: true
   collections: true
 
-# Permalink structure
-permalink: pretty
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 
-# Default front matter
+collections:
+  cptsd_healing:
+    output: true
+    # REMOVED: sort_by: order
+    # This line conflicts with the manual 'chapter_order' and 'part_order'
+    # logic we built for your Next/Previous navigation.
+
+# -----------------------------------------------------------------------------
+# Defaults
+# -----------------------------------------------------------------------------
+# This section fixes your layout bug.
+# Rules are applied top-to-bottom. Specific rules should come last.
+
 defaults:
+  # 1. First, set a 'default' layout for ALL files in your site.
+  # This fixes the bug with '/CPTSD_Self-help/'.
   - scope:
-      path: ""                # Apply to all files...
-      type: "cptsd_healing"   # ...but only in this collection
+      path: "" # Apply to all files
     values:
-      layout: "chapter"       # Set their default layout to "chapter"
+      layout: "default"
+      
+  # 2. Second, override the layout ONLY for your book.
+  # This is more specific and will win for this collection.
+  - scope:
+      path: ""
+      type: "cptsd_healing" # Only for this collection
+    values:
+      layout: "chapter"
+
+# -----------------------------------------------------------------------------
+# Exclude
+# -----------------------------------------------------------------------------
+# Files and folders to exclude from the build.
+
+exclude:
+  - .git/
+  - .github/
+  - .jekyll-cache/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  # REMOVED: include: ["README.md"] (This is included by default)

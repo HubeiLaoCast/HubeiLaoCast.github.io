@@ -19,8 +19,9 @@ An audio adaptation of the insightful works on Complex Post-Traumatic Stress Dis
 * **Language:** 🇬🇧 English
 * **Status:** Active
 * **Additional Resources:**
-  * [Study Guide: Anki Cards]({% link cptsd-healing/Anki-cards.md %}) - Flashcards for studying key concepts
+  * [Healing CPTSD and Asperger's Through the Body: A Self-Help Path]({% link CPTSD_Self-help.md %}) - A polished English translation version of **[光瞳](https://www.zhihu.com/people/alexcma)**'s remarkable article.
   * [Frequently Asked Questions (FAQs)]({% link cptsd-healing/FAQs.md %}) - Answers to common questions about CPTSD healing
+  * [Study Guide: Anki Cards]({% link cptsd-healing/Anki-cards.md %}) - Flashcards for studying key concepts
 
 #### **How to Subscribe 🎧**
 

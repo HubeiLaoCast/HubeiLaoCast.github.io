@@ -1,222 +1,254 @@
 ---
 ---
 
-/* Table of Contents Styling */
-#markdown-toc {
-  list-style: none;
-  padding-left: 0;
-}
-
-#markdown-toc li {
-  padding: 5px 0;
-}
-
-#markdown-toc li.has-nested > a::before {
-  content: '▶ ';
-  font-size: 0.8em;
-  margin-right: 5px;
-}
-
-#markdown-toc li.has-nested.open > a::before {
-  content: '▼ ';
-}
-
-#markdown-toc ul {
-  list-style: none;
-  padding-left: 20px;
-  display: none; 
-}
-
-#markdown-toc li.open > ul {
-  display: block;
-}
+/* --- 1. Global & Base Styles --- */
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    color: #333;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-a {
-    color: #0366d6;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin-top: 24px;
-    margin-bottom: 16px;
-    font-weight: 600;
-    line-height: 1.25;
-}
-
-h1 {
-    font-size: 2em;
-    border-bottom: 1px solid #eaecef;
-    padding-bottom: 0.3em;
-}
-
-h2 {
-    font-size: 1.5em;
-    border-bottom: 1px solid #eaecef;
-    padding-bottom: 0.3em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
 }
 
 img {
-    max-width: 100%;
-}
-
-code {
-    font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-    background-color: rgba(27, 31, 35, 0.05);
-    padding: 0.2em 0.4em;
-    border-radius: 3px;
-}
-
-pre {
-    background-color: #f6f8fa;
-    border-radius: 3px;
-    padding: 16px;
-    overflow: auto;
-}
-
-pre code {
-    background-color: transparent;
-    padding: 0;
-}
-
-blockquote {
-    margin: 0;
-    padding: 0 1em;
-    color: #6a737d;
-    border-left: 0.25em solid #dfe2e5;
+  max-width: 100%;
 }
 
 hr {
-    height: 0.25em;
-    padding: 0;
-    margin: 24px 0;
-    background-color: #e1e4e8;
-    border: 0;
+  height: 0.25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #e1e4e8;
+  border: 0;
+}
+
+/* --- 2. Layout --- */
+
+.site-header,
+main,
+.site-footer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
 }
 
 .site-header {
-    margin-bottom: 20px;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+main {
+  background-color: #ffffff;
+  padding: 2rem 3rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 .site-footer {
-    margin-top: 40px;
-    padding-top: 20px;
-    border-top: 1px solid #eaecef;
-    color: #6a737d;
-    font-size: 0.9em;
-}
-
-// This is the container Jekyll's highlighter creates
-div.highlight {
-  position: relative; // Needed to position the button
-}
-
-// Style for the new icon button
-.copy-code-button {
-  // --- Positioning ---
-  position: absolute;
-  top: 0.5rem;    // A little space from the top
-  right: 0.5rem;   // A little space from the right
-  
-  // --- Look & Feel ---
-  background: transparent;
-  border: none;
-  padding: 0.5rem;         // Makes it easier to click
-  border-radius: 4px;      // Soft rounded corners
-  cursor: pointer;
-  
-  // --- Icon Color & Transitions ---
-  color: #888; // Default icon color (a subtle gray)
-  transition: opacity 0.2s ease, color 0.2s ease, background 0.2s ease;
-  
-  // --- Hide until hover ---
-  opacity: 0;
-}
-
-// Show the button on hover
-div.highlight:hover .copy-code-button {
-  opacity: 1;
-}
-
-// Style the button on its own hover
-.copy-code-button:hover {
-  color: #eee; // Brighter icon on hover
-  background: rgba(255, 255, 255, 0.1); // Faint background glow
-}
-
-// --- Style the SVG icon itself ---
-.copy-code-button svg {
-  width: 1.25em;     // Makes icon slightly larger than text
-  height: 1.25em;
-  stroke: currentColor; // This makes the SVG use the button's 'color'
-  stroke-width: 2;
-  fill: none;
-}
-
-// --- "Copied!" Feedback State ---
-.copy-code-button.copied {
-  color: #4CAF50; // A nice success green
-  opacity: 1;      // Keep it visible
-}
-
-/*
- * Styling for the FOLDABLE ON-PAGE TOC
- * (Fixes the "hideous" list)
-*/
-#markdown-toc {
-  list-style: none;
-  padding-left: 0;
-}
-
-#markdown-toc li {
-  padding: 5px 0;
-  padding-left: 20px; // Indent sub-items
-  position: relative; // Needed for the '::before'
-}
-
-#markdown-toc ul {
-  list-style: none;
-  padding-left: 15px; // Further indent nested lists
-  display: none; // Hide nested lists by default
-}
-
-/* This is the clickable 'parent' item */
-#markdown-toc li.has-nested {
-  cursor: pointer;
-}
-
-/* The '▶' and '▼' triangles */
-#markdown-toc li.has-nested > a::before {
-  content: '▶ ';
-  font-size: 0.8em;
-  position: absolute;
-  left: 0;
-  top: 7px;
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.9em;
   color: #888;
 }
 
-/* When the item is open, show the '▼' and the nested list */
-#markdown-toc li.has-nested.open > a::before {
-  content: '▼ ';
+/* --- 3. Typography --- */
+
+a {
+  color: #007bff;
+  font-weight: 500;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
-#markdown-toc li.has-nested.open > ul {
-  display: block;
+// Special link styling *inside* the main content card
+main a {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 123, 255, 0.3);
+  transition: text-decoration-color 0.2s ease;
+
+  &:hover {
+    text-decoration-color: rgba(0, 123, 255, 1);
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 1.75em;
+  margin-bottom: 0.75em;
+}
+
+h1 {
+  font-size: 2em;
+  // This h1 rule will be used by your main page title
+}
+
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  font-size: 1.4rem;
+  color: #555;
+}
+
+p, li {
+  margin-bottom: 1em;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
+
+// Site title in the header
+.site-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0;
+
+  a {
+    text-decoration: none;
+    color: #333;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* --- 4. Code & Blocks --- */
+
+// Inline `code`
+code {
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+  background-color: rgba(27, 31, 35, 0.05);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+// Code blocks
+pre {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  padding: 16px;
+  overflow: auto;
+
+  // Reset styles for code *inside* a <pre> block
+  code {
+    background-color: transparent;
+    padding: 0;
+  }
+}
+
+// RSS Feed Box
+.rss-feed-box {
+  background-color: #f5f5f5;
+  padding: 1em 1.5em;
+  border-radius: 4px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.9em;
+  word-break: break-all;
+  border: 1px solid #ddd;
+}
+
+/* --- 5. Components --- */
+
+// --- Copy to Clipboard Button ---
+div.highlight {
+  position: relative; // Needed to position the button
+  
+  // Show button on code block hover
+  &:hover .copy-code-button {
+    opacity: 1;
+  }
+}
+
+.copy-code-button {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: transparent;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #888;
+  transition: opacity 0.2s ease, color 0.2s ease, background 0.2s ease;
+  opacity: 0; // Hide by default
+
+  svg {
+    width: 1.25em;
+    height: 1.25em;
+    stroke: currentColor; // Inherit color from button
+    stroke-width: 2;
+    fill: none;
+  }
+
+  &.copied {
+    color: #4CAF50;
+    opacity: 1;
+  }
+
+  &:hover {
+    color: #eee;
+    background: rgba(255, 255, 255, 0.1);
+  }
+}
+
+
+// --- Foldable On-Page TOC ---
+#markdown-toc {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    padding: 5px 0;
+    padding-left: 20px; // Indent sub-items
+    position: relative;
+
+    &.has-nested {
+      cursor: pointer;
+
+      > a::before {
+        content: '▶ ';
+        font-size: 0.8em;
+        position: absolute;
+        left: 0;
+        top: 7px;
+        color: #888;
+      }
+
+      &.open {
+        > a::before {
+          content: '▼ ';
+        }
+        > ul {
+          display: block;
+        }
+      }
+    }
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 15px;
+    display: none; // Hide nested lists by default
+  }
 }
