@@ -34,9 +34,9 @@
             </itunes:owner>
     	<itunes:block>No</itunes:block>
 	<itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png" />
+    <itunes:image href="https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.jpg" />
     <image>
-        <url>https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.png</url>
+        <url>https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.jpg</url>
         <title>cPTSD 疗愈</title>
         <link>https://hubeilaocast.podbean.com</link>
         <width>144</width>
