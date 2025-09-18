@@ -24,12 +24,16 @@ title: 欢迎来到湖北佬播客 🎙️
 
 #### **如何订阅 🎧**
 
-要收听节目，请复制下方的 RSS 订阅链接，并将其粘贴到你喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
+你可以通过以下播客应用平台收听我们的播客：
+
+* **Apple Podcasts：**[在 Apple Podcasts 上收听](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
+
+或者复制下方的 RSS 订阅链接，并将其粘贴到你喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
 
 **RSS 订阅链接：**
 
 ```
-https://feed.podbean.com/hubeilaocast/feed.xml
+https://anchor.fm/s/1097d0b90/podcast/rss
 ```
 
 ---
