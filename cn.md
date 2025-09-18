@@ -15,7 +15,7 @@ title: 欢迎来到湖北佬播客 🎙️
 
 ### 1. CPTSD 疗愈
 
-这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**触动人心的作品。
+这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**深刻见解的作品。
 
 * **语言：** 普通话
 * **额外资源：**

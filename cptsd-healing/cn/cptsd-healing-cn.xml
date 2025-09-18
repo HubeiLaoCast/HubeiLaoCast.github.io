@@ -2,7 +2,7 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>CPTSD 疗愈</title>
-    <description><![CDATA[这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者<a href="https://www.zhihu.com/people/alexcma">光瞳</a>触动人心的作品。]]></description>
+    <description><![CDATA[这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者<a href="https://www.zhihu.com/people/alexcma">光瞳</a>深刻见解的作品。]]></description>
     <link>https://hubeilaocast.github.io/README_cn</link>
     <image>
       <url>https://HubeiLaoCast.github.io/assets/img/CPTSD-Healing-CN.jpg</url>
@@ -16,7 +16,7 @@
     <copyright><![CDATA[© 2025 hubeilaocast. 播客的内容完全基于<a href="https://www.zhihu.com/people/alexcma">光瞳</a>的原创作品，这些作品在其知乎和微信公众号上免费分享。所有原创文字内容的版权归属于原作者。]]></copyright>
     <language><![CDATA[zh-cn]]></language>
     <itunes:author>Podcast by: hubeilaocast (湖北佬); Original Content by: 光瞳</itunes:author>
-    <itunes:summary><![CDATA[这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者<a href="https://www.zhihu.com/people/alexcma">光瞳</a>触动人心的作品。]]></itunes:summary>
+    <itunes:summary><![CDATA[这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者<a href="https://www.zhihu.com/people/alexcma">光瞳</a>深刻见解的作品。]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>hubeilaocast (湖北佬)</itunes:name>
