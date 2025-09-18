@@ -24,7 +24,11 @@ An audio adaptation of the insightful works on Complex Post-Traumatic Stress Dis
 
 #### **How to Subscribe 🎧**
 
-To listen, copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
+You can listen to our podcast through the following platforms:
+
+* **Apple Podcasts:** [Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/cptsd-healing/id1840540623)
+
+Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
 
 **RSS Feed Link:**
 
