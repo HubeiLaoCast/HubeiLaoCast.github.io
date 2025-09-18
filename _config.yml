@@ -18,7 +18,7 @@ collections:
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  toc_levels: 3..4
+  toc_levels: 2..4
 
 # Exclude from processing
 exclude:

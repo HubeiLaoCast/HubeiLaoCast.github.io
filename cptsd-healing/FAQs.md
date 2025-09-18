@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Frequently Asked Questions (FAQs)
+title: Frequently Asked Questions
 ---
+
+Here are answers to some common questions.
 
 * TOC
 {:toc}
