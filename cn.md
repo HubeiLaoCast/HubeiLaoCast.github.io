@@ -3,11 +3,11 @@ layout: default
 title: 欢迎来到湖北佬播客 🎙️
 ---
 
-你好，欢迎！
+您好，欢迎！
 
-这是一个由"湖北佬"运营的个人播客空间。我创建这个项目是为了将有见地和有帮助的在线内容转换成音频格式，让你可以在跑步、健身或放松时更方便地收听。
+这是一个由“湖北佬”主理的个人播客空间。我创建这个项目，是为了将网络上那些富有洞见和帮助的内容转换成音频格式，使其更易于在慢跑、健身或仅仅是放松时收听。
 
-以下是目前可收听的播客节目。
+以下是目前可用的播客节目。
 
 ---
 
@@ -24,11 +24,11 @@ title: 欢迎来到湖北佬播客 🎙️
 
 #### **如何订阅 🎧**
 
-你可以通过以下播客应用平台收听我们的播客：
+您可以通过以下播客应用平台收听我们的播客：
 
-* **Apple Podcasts：**[在 Apple Podcasts 上收听](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
+* **Apple Podcasts：**[收听 "cptsd-疗愈"](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
 
-或者复制下方的 RSS 订阅链接，并将其粘贴到你喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
+或者复制下方的 RSS 订阅链接，并将其粘贴到您喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
 
 **RSS 订阅链接：**
 
@@ -46,7 +46,7 @@ https://anchor.fm/s/1097d0b90/podcast/rss
 
 #### **如何订阅 🎧**
 
-要收听节目，请复制下方的 RSS 订阅链接，并将其粘贴到你喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
+要收听节目，请复制下方的 RSS 订阅链接，并将其粘贴到您喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
 
 **RSS 订阅链接：**
 

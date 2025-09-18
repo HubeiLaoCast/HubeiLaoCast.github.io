@@ -20,8 +20,20 @@ This podcast is a **paraphrased summary** of the original work, generated with a
 
 * **Language:** 🇬🇧 English
 * **Status:** Active
-* **Subscribe:** [Apple Podcasts](https://podcasts.apple.com/us/podcast/cptsd-healing/id1840540623)
-* **RSS Feed:** `https://anchor.fm/s/109088a2c/podcast/rss`
+
+#### **How to Subscribe 🎧**
+
+You can listen to our podcast through the following platforms:
+
+* **Apple Podcasts:** [Listen to "CPTSD Healing (Summary)"](https://podcasts.apple.com/us/podcast/cptsd-healing/id1840540623)
+
+Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
+
+**RSS Feed Link:**
+
+```
+https://anchor.fm/s/109088a2c/podcast/rss
+```
 
 ### 2. Healing CPTSD and Asperger's Through the Body: A Self-Help Path (Full Reading)
 
@@ -29,12 +41,20 @@ This podcast is a **pure, unabridged reading** of the polished English translati
 
 * **Language:** 🇬🇧 English
 * **Status:** Active
-* **Subscribe:** [Apple Podcasts](https://podcasts.apple.com/us/podcast/healing-cptsd-and-aspergers-through-the-body-a-self-help-path/id1840649193)
-* **RSS Feed:** `https://anchor.fm/s/1097de77c/podcast/rss`
 
-#### **How to Subscribe via RSS 🎧**
+#### **How to Subscribe 🎧**
 
-You can copy either RSS feed link above and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
+You can listen to our podcast through the following platforms:
+
+* **Apple Podcasts:** [Listen to "Healing CPTSD... (Full Reading)"](https://podcasts.apple.com/us/podcast/healing-cptsd-and-aspergers-through-the-body-a-self-help-path/id1840649193)
+
+Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
+
+**RSS Feed Link:**
+
+```
+https://anchor.fm/s/1097de77c/podcast/rss
+```
 
 ---
 
@@ -50,7 +70,7 @@ These resources support the content discussed in both podcasts:
 
 ## A Note on Content & Copyright
 
-The content of both podcasts (**CPTSD Healing** and **Hubeilaocast**) is based entirely on the original works of **光瞳**, which were shared freely on their Zhihu and WeChat official accounts. All credit and rights for the original written content belong to them.
+The content of both podcasts (**CPTSD Healing (Summary)** and **Healing CPTSD and Asperger's... (Full Reading)**) is based entirely on the original works of **光瞳**, which were shared freely on their Zhihu and WeChat official accounts. All credit and rights for the original written content belong to them.
 
 This podcast project is for non-commercial, educational, and personal use only. The goal is simply to make this valuable information more accessible in an audio format.
 
