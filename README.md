@@ -29,7 +29,7 @@ To listen, copy the RSS feed link below and paste it into the "Add Podcast by UR
 **RSS Feed Link:**
 
 ```
-https://hubeilaocast.github.io/cptsd-healing-en.xml
+https://anchor.fm/s/109088a2c/podcast/rss
 ```
 
 ---
