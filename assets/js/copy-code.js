@@ -22,7 +22,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     copyButton.addEventListener('click', function() {
       const codeElement = highlightDiv.querySelector('code');
-      const codeToCopy = codeElement.innerText;
+      
+      // --- THE FIX ---
+      // Use .textContent to get the raw text (which is more reliable)
+      // and .trim() to remove any leading/trailing whitespace or newlines.
+      const codeToCopy = codeElement.textContent.trim();
+      // --- END FIX ---
 
       navigator.clipboard.writeText(codeToCopy).then(function() {
         // Success: show check icon and add 'copied' class
