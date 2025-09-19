@@ -2012,14 +2012,14 @@ To summarize in one sentence: Physiological dynamics determine psychological dyn
 
 For the following materials, those for which an English title is listed should be prioritized in the English edition; the Chinese edition is only for reference. Many difficulties encountered when reading the Chinese edition can be resolved by reading the English edition.
 
-### 8.1 Psychology Foundation Must-Reads
+### Psychology Foundation Must-Reads
 
 | Chinese Title | English Title | Author(s) |
 | :--- | :--- | :--- |
 | 心理学与生活 (第19版) | Psychology and Life (19th Ed.) | [USA] Richard Gerrig / [USA] Philip Zimbardo |
 | 改变心理学的40项研究 | Forty Studies that Changed Psychology: Explorations into the History of Psychological Research | [USA] Roger R. Hock |
 
-### 8.2 Asperger's Syndrome Must-Reads
+### Asperger's Syndrome Must-Reads
 
 | Chinese Title | English Title | Author(s) |
 | :--- | :--- | :--- |
@@ -2027,7 +2027,7 @@ For the following materials, those for which an English title is listed should b
 | (None) | Autism as an Infantile Post trauma Stress Disorder: A Hypothesis | Zhou Ting / Yi Chunli |
 | (None) | Switched On: A Memoir of Brain Change and Emotional Awakening | [USA] John Elder Robison |
 
-### 8.3 Cognitive Behavior Therapy Must-Reads
+### Cognitive Behavior Therapy Must-Reads
 
 | Chinese Title | English Title | Author(s) |
 | :--- | :--- | :--- |
@@ -2038,14 +2038,14 @@ For the following materials, those for which an English title is listed should b
 | 叙事疗法实践地图 | Maps of Narrative Practice | [AUS] Michael White |
 | 创伤后应激障碍的治疗：认知加工疗法实用手册 | Cognitive Processing Therapy for PTSD: A Comprehensive Manual | [USA] Patricia A. Resick / et al. |
 
-### 8.4 Psychodynamics Must-Reads
+### Psychodynamics Must-Reads
 
 | Chinese Title | English Title | Author(s) |
 | :--- | :--- | :--- |
 | 存在主义心理治疗 | Existential Psychotherapy | [USA] Irvin D. Yalom |
 | 心理治疗中的依恋：从养育到治愈，从理论到实践 | Attachment in Psychotherapy | [USA] David J. Wallin |
 
-### 8.5 Somatic Experiencing & Sensorimotor Psychotherapy & Somatics Must-Reads
+### Somatic Experiencing & Sensorimotor Psychotherapy & Somatics Must-Reads
 
 | Chinese Title | English Title | Author(s) |
 | :--- | :--- | :--- |
@@ -2055,13 +2055,13 @@ For the following materials, those for which an English title is listed should b
 | 聚焦心理：生命自觉之道 | Focusing | [USA] Eugene T. Gendlin |
 | 创伤后的自我成长 | Healing the Fragmented Selves of Trauma Survivors: Overcoming Internal Self-Alienation | [UK] Janina Fisher |
 
-### 8.6 Injury-Free Movement Must-Reads
+### Injury-Free Movement Must-Reads
 
 | Chinese Title | English Title | Author(s) |
 | :--- | :--- | :--- |
 | 健身路线图：精准训练与无伤运动导航书 | (None) | Chen Zouqi |
 
-### 8.7 Selected Reading
+### Selected Reading
 
 | Chinese Title | English Title | Author(s) | Remarks |
 | :--- | :--- | :--- | :--- |
