@@ -1,4 +1,7 @@
-# Welcome to Hubeilaocast Podcasts 🎙️
+---
+layout: default
+title: Welcome to Hubeilaocast Podcasts 🎙️
+---
 
 📖 **[简体中文]({% link cn.md %}) version available.**  
 

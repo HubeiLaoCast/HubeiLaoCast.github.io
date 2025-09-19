@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Healing CPTSD and Asperger's Through the Body: A Self-Help Path
+title: "Healing CPTSD and Asperger's Through the Body: A Self-Help Path"
+page-class: article-with-counters
 ---
 
 * TOC
@@ -59,7 +60,7 @@ This article is an original work by **[光瞳](https://www.zhihu.com/people/alex
 
 ## Chapter 1: The Foundation: Understanding the Self and Trauma
 
-### 1.1. The View of Human Nature
+### The View of Human Nature
 
 This article does not discuss antisocial personality.
 
@@ -67,9 +68,9 @@ Prosociality is a human instinct. The reason ordinary people prefer socializing 
 
 The goal of psychotherapy is to allow the subject's own nature to fully unfold, not to pursue some "ideal personality". If a subject's ability to express love is limited, it is only because they have been very deeply hurt.
 
-### 1.2 The View of Responsibility (Self-Responsibility, Struggle, Protracted Struggle)
+### The View of Responsibility (Self-Responsibility, Struggle, Protracted Struggle)
 
-#### 1.2.1 The Spirit of Self-Responsibility
+#### The Spirit of Self-Responsibility
 
 Trauma and deficits are not one's own fault, but one must take ultimate responsibility for one's own rescue. Only by seeing one's own responsibility clearly can one see the agency and influence one possesses. "Taking responsibility for oneself" is absolutely not "victim-blaming". Responsibility never means "taking the blame" or even being humiliated.
 
@@ -81,11 +82,11 @@ The healing process will arouse a great deal of anger. Survivors must remember t
 
 after healing is complete. Feeling anger is for the purpose of reclaiming the inner strength we have abandoned, not for attributing the cause of our lost strength to deprivation by others. Attributing the cause to others is equivalent to admitting that others can control our healing process, which is undoubtedly a self-defeating act.
 
-#### 1.2.2 The Spirit of All-Out Struggle
+#### The Spirit of All-Out Struggle
 
 If we compare trauma to a wound on a tree, then CPTSD is like the dead branches and fallen leaves scattered after the wounded tree has fallen. The treatment process for CPTSD is neither a simple process of dressing the wound nor a simple process of cleaning up debris; it is the process of growing a new, great tree upon the remnants. Survivors must discard the fantasy of "patching things up to last another three years" and be prepared for a complete, radical transformation (lit. "shedding one's skin and bones"). Only when survivors recognize that they have no further retreat, that all means of escape have utterly failed, can they move toward awakening. Otherwise, they can easily fall into self-pity during the self-rescue process.
 
-#### 1.2.3 The Spirit of Protracted Struggle
+#### The Spirit of Protracted Struggle
 
 The extremeness of a reaction is always closely linked to the isolation of the event. When facing a problem, if a person believes they will never encounter it a second time, they will likely either go all-in and overdraw their resources, or do nothing at all, simply closing their eyes and praying for it to pass. But if they believe this problem will become a frequent visitor, and that if they ignore it, they will face more and more restrictions, they will adopt a completely different attitude. People who are able to walk out of the shadow of trauma understand the weight of the words "to maneuver" (周旋) far better than ordinary people.
 
@@ -94,7 +95,7 @@ The self-rescue from CPTSD is a spiral-up process; it cannot be accomplished ove
 Each cycle is a process of "getting it" (开窍), "awakening," or "ascending a dimension". It completes naturally after the subject's most authentic life force is released. Psychotherapy is to help us unfold our nature, find confidence in the "flow" (流畅感) of life, not to make us overly cautious.
 
 
-#### 1.2.4 The Spirit of Self-Forgetfulness (Selflessness)
+#### The Spirit of Self-Forgetfulness (Selflessness)
 
 The solution to a problem is never found where the problem was formed. People who keep staring at their own trauma and deficits will only sink deeper and deeper into them. Finding one's spiritual anchor and life's pursuit, and in the process of that pursuit, establishing and developing emotional connections with others, is the necessary path for personality development.
 
@@ -102,9 +103,9 @@ The process of personality development is the process of the subject walking out
 
 For more content on the spirit of self-forgetfulness, see section 4.10 "External Investment".
 
-### 1.3 The Social Relations Paradigm (Nature vs. Nurture)
+### The Social Relations Paradigm (Nature vs. Nurture)
 
-#### 1.3.1 View of Nature vs. Nurture
+#### View of Nature vs. Nurture
 
 The human as a biological organism and the human as a social individual do not exist on the same level. This viewpoint can be understood through the analogy of the relationship between a "software system" and a "hardware system" in computer science: early computer systems did not deliberately distinguish between "software" and "hardware". As computer systems became increasingly complex, people began to describe them from the two dimensions of "hardware" and "software". Although the software system is based on the hardware system, their conceptual systems and terminologies are mutually independent; the software system cannot be simply reduced to the hardware system. A computer's operational process can be described from both the hardware process and the software process angles, and both descriptions are self-consistent. The two do not have a simple correspondence in structure, and one cannot logically impose causality between them. Their relationship is complex, not linear. Similarly, the concepts used to describe human activity (especially social activity) cannot be in simple correspondence with the anatomical structures or material components of the human body (including the brain).
 
@@ -114,21 +115,21 @@ But we need not feel pressured by this. Just as a computer software engineer doe
 
 Suppose we compare the physiological basis of a psychological disorder to a "chicken," and the abnormal cognitive schemas and behavioral habits to an "egg" (this analogy is used considering that a chicken laying an egg is easier than an egg producing a chicken). In that case, the formation process of the psychological disorder is a chicken-and-egg, egg-and-chicken process that continues until the chicken coop is packed to bursting. The primary goal of intervention is to break this cycle, not to worry about whether there were initially more eggs or more chickens. From the subject's own perspective, the formation of any psychological disorder is the result of both innate and acquired factors acting together. Emotional intelligence is like a muscle: it is both innate and trained; it is developed subconsciously in various activities, and it can also be developed through conscious exercise. The discussion of nature versus nurture has limited meaning in self-help treatment.
 
-#### 1.3.2 The Social Relations Model and the Neurophysiological Model
+#### The Social Relations Model and the Neurophysiological Model
 
 The essence of psychological problems is various forms of "alienation". Psychological problems can only be most comprehensively understood and most accurately intervened with within a social relations framework. The observation, understanding, and intervention of psychological problems depend on the most subtle details within specific interactions. Psychological problems are the internalization of social relations problems. Differences at the neurophysiological level do not directly determine an individual's differences in adaptive ability. Overly focusing on neurophysiological factors risks "mistaking the branch for the root" (舍本逐末). Discussing the abstract nature of psychological problems detached from the specific individual has limited meaning. Survivors should not use "innate factors cannot be changed" as an excuse to evade responsibility.
 
 Psychological intervention models developed based on the social relations paradigm are all classified as social relations models. In contrast, intervention models that primarily attribute the causes of and interventions for psychological problems to neurophysiological factors belong to neurophysiological models. CBT is based on the social relations model; Somatic Experiencing and Sensorimotor Psychotherapy pursue the unification of the social relations model and the neurophysiological model. Given the current level of development in psychological intervention techniques, all effective intervention methods are inseparable from the social relations model. This article mainly uses the social relations paradigm to understand various psychological problems and will not involve much neurophysiological knowledge.
 
-### 1.4 The Positive Psychology and Spectrum View (Moving Beyond Labels)
+### The Positive Psychology and Spectrum View (Moving Beyond Labels)
 
 This article views the difference between individuals with psychological disorders and ordinary people through the lens of Positive Psychology's view on difference. This view of difference can be summarized as the "View of 'Mostly the Same, Slightly Different'" and the "Spectrum View," with the former being the foundation for the latter.
 
-#### 1.4.1 View of "Mostly the Same, Slightly Different" 
+#### View of "Mostly the Same, Slightly Different" 
 
 Humans possess both consistency and diversity, with consistency holding the dominant position. This is why humanity can possess rich possibilities while existing as a whole. Significant consistency often contains subtle differences, and significant differences often contain broad consistency. No matter how much we focus on the differences between those with psychological disorders and ordinary people, these differences and divisions are secondary and minor. The commonalities and connections between people are what is universal and primary; it is only that people, out of a desire for the novel (or the bizarre), prefer to focus on that small difference.
 
-#### 1.4.2 The Spectrum View 
+#### The Spectrum View 
 
 The spectrum view opposes labeling.
 
@@ -138,7 +139,7 @@ For example, this article explains the survivor's atypical mind-body state as th
 
 Compulsive behaviors and reflexive behaviors can also be seen as existing on the same spectrum; the only difference is that the activation conditions for the former are relatively stringent and thus more easily noticed and regulated. Conditioned reflexes, unconditioned reflexes, and operant (instrumental) conditioned reflexes can also be seen as being on the same spectrum. A conditioned reflex is formed by serialized behaviors using unconditioned reflexes as core components, combined with matching elements; a conditioned reflex that includes significant operational behavior is an operant conditioned reflex; an operant conditioned reflex that has developed into a hard connection through long evolution is an unconditioned reflex.
 
-#### 1.4.3 Diagnostic Labels from the Spectrum View 
+#### Diagnostic Labels from the Spectrum View 
 
 An appropriate label can transform originally indescribable suffering into a shareable meaning. The subject can use this as a starting point to search for relevant resources and strive to change their situation; this is the true meaning of a label. A label should be understood as an "index," not an "identity".
 
@@ -146,7 +147,7 @@ The reality, however, is that labels often cause people to be "labeled". Some pe
 
 If a certain characteristic of a person is too prominent, they can easily see others with similar characteristics as their own kind, completely ignoring other, more fundamental and important qualities. Children are often keen to find an identity; once they are labeled "Asperger's," they are more likely to gravitate toward other people with special labels, which undoubtedly introduces new risks to their development.
 
-#### 1.4.4 Self-Help from the Spectrum View 
+#### Self-Help from the Spectrum View 
 
 Psychological self-help is not about acting as one's own counselor; that is completely unrealistic.
 
@@ -164,9 +165,9 @@ The best candidates for this work are those who have lived in two (or more) comp
 
 The author of this article has had the fortune of shuttling between the phenomenological worlds of the CPTSD survivor and the ordinary person. May this article serve as a catalyst (lit. "toss a brick to attract jade") to awaken more attention to the phenomenological world of the survivor.
 
-### 1.5 The Integrated Mind-Body View (The Core Somatic Model)
+### The Integrated Mind-Body View (The Core Somatic Model)
 
-#### 1.5.1 The Integrated Body-Brain View 
+#### The Integrated Body-Brain View 
 
 Somatic Experiencing does not deliberately distinguish between brain activity and body activity. Any specific activity simultaneously involves the activities of various body parts, including the brain. The activity of the brain can be indirectly observed through the body's micro-activities. The "body (physical)" mentioned in this article always includes the brain.
 
@@ -176,7 +177,7 @@ From the limbs to the brain, from the brain's lower cortex to the higher cortex,
 
 "Instinct," "Emotion," and "Cognition" are all products of body-brain integration, with the degree of integration increasing sequentially. In everyday context, people often use "body" to refer to instinct. "Integration" (整合) is a slightly awkward term; emotion and cognition cannot be simply reduced to physiological activity, so terms like "integration" or "emergence" must be used to vaguely express the mind-body relationship. Although integration is abstract, "plucking up courage" (鼓起勇气) is familiar to everyone; the process of plucking up courage is a kind of spontaneous integration. All self-help strategies are ultimately aimed at helping the subject "pluck up courage" in the most natural way.
 
-#### 1.5.2 The Integrated Mind-Body View 
+#### The Integrated Mind-Body View 
 
 Behavior is the integrated result of instinct, emotion, and cognition.
 
@@ -190,7 +191,7 @@ Diagram of the Body-Mind-Intellect Model and Interaction Loop:
 
 The diagram above can be compared to the neural reflexes in defecation. Body, Mind, and Intellect can be sequentially compared to lower and higher central nervous centers.
 
-#### 1.5.3 Two Kinds of Growth 
+#### Two Kinds of Growth 
 
 The Child Self is the foundation of the Adult Self, therefore we can also use children's activities to understand the underlying logic of adult activities. Our various presentations in childhood did not simply disappear or change with age; on the contrary, they became the foundation for more complex behaviors and cognitive processes. When we encounter extreme situations where these complex processes all fail, forcing us to start processing the problem again from a very basic level, our childhood behavioral styles will clearly manifest, and even flashes of childhood scenes may appear in our minds. This phenomenon is known in psychodynamics as "regression".
 
@@ -200,7 +201,7 @@ The transformation of impulse into action usually follows two paths: the "Impuls
 
 → Action → Observation and Experience → Improved Action" path (Type 1 Growth), and the "Impulse → Self-Inhibition → Analysis and Thought → Action" path (Type 2 Growth). The former is the premise and foundation of the latter; the latter is the supplement and extension of the former. The former can be compared to a child acquiring their mother tongue; the latter to an ordinary person acquiring a foreign language. (This analogy is somewhat crude, as learning clearly does not equal growth. Growth implies an evolution from simple to complex, from potential to reality, from changeable to stable.) . The more complete the Type 1 growth, the greater the space for Type 2 growth, and the greater the individual's "potential". If survivors wish to develop their capacity for action, they must, through hard practice, make up for the Type 1 growth that was left behind.
 
-#### 1.5.4 The Synergy of Body, Mind, and Intellect 
+#### The Synergy of Body, Mind, and Intellect 
 
 A vibrant body cannot nurture a depressed heart. The synergy of Body, Mind, and Intellect was expressed by Peter Levine as "Three Brains, One Mind". When this synergy is subjected to intense disturbances that exceed self-regulatory capacity, psychological problems appear.
 
@@ -208,7 +209,7 @@ Synergy can be divided into two opposing aspects, coordination and complementari
 
 Somatic Experiencing focuses on mind-body synergy; rebuilding the connection between body and intellect is a crucial component of SE. Cognitive therapy focuses on mind-intellect synergy; helping the individual establish a life narrative that fully reflects their own subjective reality is a crucial component of cognitive therapy.
 
-#### 1.5.5 The Two Dimensions of Traumatization 
+#### The Two Dimensions of Traumatization 
 
 In the context of this article, "integration" and "differentiation" are two sides of the same coin. "Insufficient integration" and "insufficient differentiation" have essentially the same meaning. The difference is that insufficient integration emphasizes the "fragmented state" caused by trauma, while insufficient differentiation emphasizes the "chaotic state" caused by developmental stagnation. Integration is tightly linked differentiation; differentiation is clarified integration. The antonyms for integration and differentiation are splitting and disintegration. The extreme form of splitting and disintegration is dissociative disorder.
 
@@ -233,11 +234,11 @@ Diagram of Traumatization (Interaction Loop Blockage / Self-Fragmentation / Self
 
 (External Object) 
 
-#### 1.5.6 Self-Help from the Integration View 
+#### Self-Help from the Integration View 
 
 From the perspective of intersubjective relationships, the process of survivor self-rescue is the process of the adult individual using their "Adult Self" to take on the responsibility of the previously absent parent; under scientific guidance and within social life, they educate the neglected "Child Self," cultivating its ability to act and its capacity for self-restraint. From the perspective of the subject-environment relationship, self-rescue is the process of the subject resetting their own primal impulses. This reset of impulses is often accompanied by intense, involuntary trembling.
 
-### 1.6 The Core of Interaction: Understanding Interaction Loops
+### The Core of Interaction: Understanding Interaction Loops
 
 (Note: This section begins the conceptual analysis, which forms the logical start of the book's theoretical model.)
 

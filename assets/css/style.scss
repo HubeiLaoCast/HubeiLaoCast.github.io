@@ -67,15 +67,18 @@ a {
   }
 }
 
-// Special link styling *inside* the main content card
-main a {
-  text-decoration: underline;
-  text-decoration-color: rgba(0, 123, 255, 0.3);
-  transition: text-decoration-color 0.2s ease;
+/* --- 7. Page-Specific Styles --- */
 
-  &:hover {
-    text-decoration-color: rgba(0, 123, 255, 1);
-  }
+/* Styles for numbers added by JavaScript */
+.toc-number,
+.heading-number {
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+/* Keep TOC numbers from being underlined */
+#markdown-toc a .toc-number {
+  text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
