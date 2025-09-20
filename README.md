@@ -19,7 +19,7 @@ We currently offer two different audio versions based on the insightful work on 
 
 ### 1. CPTSD Healing Deep Dive
 
-This podcast is a **paraphrased summary** of the original work, generated with assistance from NotebookLM. It's a more concise listen, as many details are omitted. This podcast is in English, created for my own learning and for any friends in Tassie and beyond.
+This podcast is a **paraphrased discussion** of the original work, generated with assistance from NotebookLM. It's a more engaging listen, where some details are omitted.
 
 * **Language:** 🇬🇧 English
 * **Status:** Active
