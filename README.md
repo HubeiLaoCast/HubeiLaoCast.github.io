@@ -17,7 +17,7 @@ Below you will find the podcasts currently available.
 
 We currently offer two different audio versions based on the insightful work on CPTSD by **光瞳**.
 
-### 1. CPTSD Healing (Summary)
+### 1. The CPTSD & AS Self-Help Deep Dive
 
 This podcast is a **paraphrased summary** of the original work, generated with assistance from NotebookLM. It's a more concise listen, as many details are omitted. This podcast is in English, created for my own learning and for any friends in Tassie and beyond.
 
@@ -28,17 +28,17 @@ This podcast is a **paraphrased summary** of the original work, generated with a
 
 You can listen to our podcast through the following platforms:
 
-* **Apple Podcasts:** [Listen to "CPTSD Healing (Summary)"](https://podcasts.apple.com/us/podcast/cptsd-healing/id1840540623)
+* **Apple Podcasts:** [Listen to "The CPTSD & AS Self-Help Deep Dive"](https://podcasts.apple.com/us/podcast/the-warriors-disgrace/id1841136686)
 
 Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
 
 **RSS Feed Link:**
 
 ```
-https://anchor.fm/s/109088a2c/podcast/rss
+https://anchor.fm/s/10993eef0/podcast/rss
 ```
 
-### 2. Healing CPTSD and Asperger's Through the Body: A Self-Help Path (Full Reading)
+### 2. Healing CPTSD and Asperger's Through the Body: A Self-Help Path
 
 This podcast is a **pure, unabridged reading** of the polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s remarkable article. This version is for those who want to hear the complete, detailed text.
 
@@ -49,7 +49,7 @@ This podcast is a **pure, unabridged reading** of the polished English translati
 
 You can listen to our podcast through the following platforms:
 
-* **Apple Podcasts:** [Listen to "Healing CPTSD... (Full Reading)"](https://podcasts.apple.com/us/podcast/healing-cptsd-and-aspergers-through-the-body-a-self-help-path/id1840649193)
+* **Apple Podcasts:** [Listen to "Healing CPTSD and Asperger's..."](https://podcasts.apple.com/us/podcast/healing-cptsd-and-aspergers-through-the-body-a-self-help-path/id1840649193)
 
 Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
 
