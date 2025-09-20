@@ -189,7 +189,21 @@ The Child Self is the foundation of the Adult Self; therefore, we can also use c
 
 Growth is both a process of constantly reshaping basic sequential behaviors and cognitive schemas, and a process of developing more complex habits and cognitive schemas. The former is the **First Kind of Growth**, and the latter is the **Second Kind of Growth**. The First Kind of Growth usually occurs in a state where the individual's practical ability far exceeds their cognitive ability, characterized significantly by "action before knowing." The growth discussed by adults is mainly the Second Kind of Growth; "the unity of knowing and acting" is the basic requirement of the Second Kind of Growth. An ordinary person's First Kind of Growth is basically complete by late adolescence. Its adaptive significance is to enable the individual to face the various impacts of social reality from a relatively independent stance, allowing the Second Kind of Growth to reach a very high level. The survivor's First Kind of Growth was never completed. This both allows their personality to exhibit good plasticity even in adulthood and also makes their Second Kind of Growth extremely unstable. The vast majority of a survivor's abnormal manifestations can be seen as the product of severe deficiency in the First Kind of Growth and excessive compensation by the Second Kind of Growth.
 
-The transformation of impulse into action usually follows two paths: the "Impulse -> Action -> Observation and Experience -> Improved Action" path, and the "Impulse -> Self-Inhibition -> Analysis and Thought -> Action" path. The former belongs to the First Kind of Growth, the latter to the Second Kind of Growth. The former is the prerequisite and foundation for the latter; the latter is the supplement and expansion of the former. The former can be analogized to a child learning their mother tongue; the latter can be analogized to an ordinary person learning a foreign language. (This analogy is somewhat crude, as learning clearly does not equal growth. Growth implies an evolution from simple to complex, from potential to reality, from mutable to stable.) The more sufficient the First Kind of Growth, the greater the space for the Second Kind of Growth, and the greater the individual's "potential." If survivors wish to develop their capacity for action, they must, through diligent practice, make up for the First Kind of Growth that was left behind.
+<p>
+  The transformation of impulse into action usually follows two paths:
+  
+  <span aria-hidden="true">
+    the “Impulse → Action → Observation and Experience → Improved Action” path, 
+    and the “Impulse → Self-Inhibition → Analysis and Thought → Action” path.
+  </span>
+  
+  <span class="visually-hidden">
+    the first path is: Impulse, leading to Action, leading to Observation and Experience, 
+    and finally, Improved Action. The second path is: Impulse, leading to 
+    Self-Inhibition, leading to Analysis and Thought, and finally, Action.
+  </span>
+  The former belongs to the First Kind of Growth, the latter to the Second Kind of Growth. The former is the prerequisite and foundation for the latter; the latter is the supplement and expansion of the former. The former can be analogized to a child learning their mother tongue; the latter can be analogized to an ordinary person learning a foreign language. (This analogy is somewhat crude, as learning clearly does not equal growth. Growth implies an evolution from simple to complex, from potential to reality, from mutable to stable.) The more sufficient the First Kind of Growth, the greater the space for the Second Kind of Growth, and the greater the individual's "potential." If survivors wish to develop their capacity for action, they must, through diligent practice, make up for the First Kind of Growth that was left behind.
+</p>
 
 #### The Coordination of Body, Mind, and Intellect
 
