@@ -32,7 +32,7 @@ relative_links:
 # -----------------------------------------------------------------------------
 
 collections:
-  cptsd_healing:
+  cptsd_healing_chapters:
     output: true
     # REMOVED: sort_by: order
     # This line conflicts with the manual 'chapter_order' and 'part_order'
@@ -56,7 +56,7 @@ defaults:
   # This is more specific and will win for this collection.
   - scope:
       path: ""
-      type: "cptsd_healing" # Only for this collection
+      type: "cptsd_healing_chapters" # Only for this collection
     values:
       layout: "chapter"
 

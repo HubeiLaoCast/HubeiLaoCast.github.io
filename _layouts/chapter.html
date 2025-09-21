@@ -3,25 +3,31 @@ layout: default
 ---
 
 {% comment %}
-  --- 1. MANUAL NEXT/PREVIOUS LOGIC ---
-  
-  Get all pages in the collection.
-  Sort them by 'part_order' (the secondary key) first.
-  Then, sort them by 'chapter_order' (the primary key).
+  --- 1. GET THE CURRENT PAGE'S COLLECTION ---
+  Get the name of the collection this page is in (e.g., "cptsd_healing_chapters")
 {% endcomment %}
-{% assign all_pages = site.cptsd_healing | sort: 'part_order' | sort: 'chapter_order' %}
+{% assign collection_name = page.collection %}
 
 {% comment %}
-  2. Loop through the fully sorted list to find the current page.
+  Get the data for that collection (e.g., all pages in site.cptsd_healing_chapters)
+{% endcomment %}
+{% assign collection_data = site[collection_name] %}
+
+
+{% comment %}
+  --- 2. SORT THAT COLLECTION'S PAGES ---
+  This now sorts the *correct* collection.
+{% endcomment %}
+{% assign all_pages = collection_data | sort: 'part_order' | sort: 'chapter_order' %}
+
+
+{% comment %}
+  --- 3. FIND THE CURRENT PAGE'S NEIGHBORS ---
 {% endcomment %}
 {% for item in all_pages %}
   {% if item.url == page.url %}
     {% assign current_page_index = forloop.index0 %}
     
-    {% comment %}
-      3. Once found, assign the 'previous' and 'next' items
-         based on their index in the list.
-    {% endcomment %}
     {% if current_page_index > 0 %}
       {% assign previous_page_index = current_page_index | minus: 1 %}
       {% assign previous_page = all_pages[previous_page_index] %}
@@ -41,28 +47,30 @@ layout: default
   <hr>
   
   <nav>
-    <ul style="list-style-type: none; padding-left: 0; display: flex; justify-content: space-between;">
+    <ul style="list-style-type: none; padding-left: 0; display: flex; justify-content: space-between; align-items: center;">
       
-      <li>
+      <li style="text-align: left;">
         {% if previous_page %}
           <a href="{{ previous_page.url | relative_url }}">
             &laquo; 上一章节: {{ previous_page.title }}
           </a>
-        {% endif %}
+        {% else %}
+          <span></span> {% endif %}
       </li>
       
       <li style="text-align: center;">
-        <a href="{% link cptsd_healing.md %}">
+        <a href="{% link cptsd_healing_by_chapters.md %}">
           (回到目录)
         </a>
       </li>
-
-      <li>
+      
+      <li style="text-align: right;">
         {% if next_page %}
           <a href="{{ next_page.url | relative_url }}">
             下一章节: {{ next_page.title }} &raquo;
           </a>
-        {% endif %}
+        {% else %}
+          <span></span> {% endif %}
       </li>
 
     </ul>
