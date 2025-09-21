@@ -13,7 +13,7 @@ title: 欢迎来到湖北佬播客 🎙️
 
 ## 我们的播客
 
-### 1. CPTSD 疗愈
+### 1. 基于躯体体验的CPTSD自助治疗手册
 
 这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**深刻见解的作品。
 
@@ -26,7 +26,7 @@ title: 欢迎来到湖北佬播客 🎙️
 
 您可以通过以下播客应用平台收听我们的播客：
 
-* **Apple Podcasts：**[收听 "cptsd-疗愈"](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
+* **Apple Podcasts：**[收听 "基于躯体体验的CPTSD自助治疗手册"](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
 
 或者复制下方的 RSS 订阅链接，并将其粘贴到您喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
 
