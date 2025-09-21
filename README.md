@@ -17,7 +17,7 @@ Below you will find the podcasts currently available.
 
 We currently offer two different audio versions based on the insightful work on CPTSD by **光瞳**.
 
-### 1. CPTSD Healing Deep Dive
+### 1. Awakening from CPTSD: A Somatic Guide to Self-Healing
 
 This podcast is a **paraphrased discussion** of the original work, generated with assistance from NotebookLM. It's a more engaging listen, where some details are omitted.
 
@@ -28,7 +28,7 @@ This podcast is a **paraphrased discussion** of the original work, generated wit
 
 You can listen to our podcast through the following platforms:
 
-* **Apple Podcasts:** [Listen to "CPTSD Healing Deep Dive"](https://podcasts.apple.com/us/podcast/the-warriors-disgrace/id1841136686)
+* **Apple Podcasts:** [Listen to "Awakening from CPTSD: A Somatic Guide to Self-Healing"](https://podcasts.apple.com/us/podcast/the-warriors-disgrace/id1841136686)
 
 Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
 
