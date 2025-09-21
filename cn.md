@@ -19,7 +19,7 @@ title: 欢迎来到湖北佬播客 🎙️
 
 * **语言：** 普通话
 * **额外资源：**
-  * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（本站）]({% link cptsd-healing/Self-Help_Healing_for_Asperger's_Syndrome_&_Complex_PTSD___From_the_Perspective_of_Somatic_Experience.md %}) - 综合了 **光瞳** 发布在知乎专栏与微信公众号的文本，备份于本站
+  * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（本站）]({% link healing-cptsd-and-asperger_s-through-the-body/cn.md %}) - 综合了 **光瞳** 发布在知乎专栏与微信公众号的文本，备份于本站
   * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（知乎）](https://zhuanlan.zhihu.com/p/687506561) - **光瞳** 发布在知乎专栏的版本
 
 #### **如何订阅 🎧**

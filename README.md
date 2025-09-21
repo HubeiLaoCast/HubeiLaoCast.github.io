@@ -65,9 +65,9 @@ https://anchor.fm/s/1097de77c/podcast/rss
 
 These resources support the content discussed in both podcasts:
 
-* [Healing CPTSD and Asperger's Through the Body: A Self-Help Path]({% link healing-cptsd-and-asperger_s-through-the-body.md %}) - The polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s article that the podcasts are based on.
-* [Frequently Asked Questions (FAQs)]({% link cptsd-healing/FAQs.md %}) - Answers to common questions about CPTSD healing.
-* [Study Guide: Anki Cards]({% link cptsd-healing/Anki-cards.md %}) - Flashcards for studying key concepts.
+* [Healing CPTSD and Asperger's Through the Body: A Self-Help Path]({% link healing-cptsd-and-asperger_s-through-the-body/index.md %}) - The polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s article that the podcasts are based on.
+* [Frequently Asked Questions (FAQs)]({% link healing-cptsd-and-asperger_s-through-the-body/FAQs.md %}) - Answers to common questions about CPTSD healing.
+* [Study Guide: Anki Cards]({% link healing-cptsd-and-asperger_s-through-the-body/Anki-cards.md %}) - Flashcards for studying key concepts.
 
 ---
 
