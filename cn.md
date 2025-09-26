@@ -13,20 +13,20 @@ title: 欢迎来到湖北佬播客 🎙️
 
 ## 我们的播客
 
-### 1. 基于躯体体验的CPTSD自助治疗手册
+### 1. 身心觉醒之旅：从碎片到整合
 
-这是一个关于复杂性创伤后应激障碍（CPTSD）的音频节目，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**深刻见解的作品。
+这是一个关于复杂性创伤后应激障碍（CPTSD）的自助指南，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**深刻见解的作品。
 
 * **语言：** 普通话
 * **额外资源：**
-  * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（本站）]({% link healing-cptsd-and-asperger_s-through-the-body/cn.md %}) - 综合了 **光瞳** 发布在知乎专栏与微信公众号的文本，备份于本站
+  * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（本站）]({% link resilient-growth.pdf %}) - **光瞳** 分享于百度网盘的 PDF 版本，备份于本站
   * [复杂性创伤后压力综合征和阿斯伯格综合征的自助治疗：基于躯体体验的视角（知乎）](https://zhuanlan.zhihu.com/p/687506561) - **光瞳** 发布在知乎专栏的版本
 
 #### **如何订阅 🎧**
 
 您可以通过以下播客应用平台收听我们的播客：
 
-* **Apple Podcasts：**[收听 "基于躯体体验的CPTSD自助治疗手册"](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
+* **Apple Podcasts：**[收听 "身心觉醒之旅：从碎片到整合"](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
 
 或者复制下方的 RSS 订阅链接，并将其粘贴到您喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
 
