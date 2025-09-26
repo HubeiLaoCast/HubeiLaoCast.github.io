@@ -26,7 +26,7 @@ title: 欢迎来到湖北佬播客 🎙️
 
 您可以通过以下播客应用平台收听我们的播客：
 
-* **Apple Podcasts：**[收听 "身心觉醒之旅：从碎片到整合"](https://podcasts.apple.com/us/podcast/cptsd-疗愈/id1840629331)
+* **Apple Podcasts：**[收听 "身心觉醒之旅：从碎片到整合"](https://podcasts.apple.com/us/podcast/身心觉醒之旅：从碎片到整合/id1840629331)
 
 或者复制下方的 RSS 订阅链接，并将其粘贴到您喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
 

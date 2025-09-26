@@ -28,7 +28,7 @@ This podcast is a **paraphrased discussion** of the original work, generated wit
 
 You can listen to our podcast through the following platforms:
 
-* **Apple Podcasts:** [Listen to "Awakening from CPTSD: A Somatic Guide to Self-Healing"](https://podcasts.apple.com/us/podcast/the-warriors-disgrace/id1841136686)
+* **Apple Podcasts:** [Listen to "Awakening from CPTSD: A Somatic Guide to Self-Healing"](https://podcasts.apple.com/us/podcast/awakening-from-cptsd-a-somatic-guide-to-self-healing/id1841136686)
 
 Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
 
