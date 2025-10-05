@@ -17,7 +17,7 @@ Below you will find the podcasts currently available.
 
 We currently offer two different audio versions based on the insightful work on CPTSD by **光瞳**.
 
-### 1. Awakening from CPTSD: A Somatic Guide to Self-Healing
+### 1. Beyond Stagnation
 
 This podcast is a **paraphrased discussion** of the original work, generated with assistance from NotebookLM. It's a more engaging listen, where some details are omitted.
 
@@ -28,7 +28,7 @@ This podcast is a **paraphrased discussion** of the original work, generated wit
 
 You can listen to our podcast through the following platforms:
 
-* **Apple Podcasts:** [Listen to "Awakening from CPTSD: A Somatic Guide to Self-Healing"](https://podcasts.apple.com/us/podcast/awakening-from-cptsd-a-somatic-guide-to-self-healing/id1841136686)
+* **Apple Podcasts:** [Listen to "Beyond Stagnation"](https://podcasts.apple.com/us/podcast/beyond-stagnation/id1841136686)
 
 Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
 
@@ -65,7 +65,7 @@ https://anchor.fm/s/1097de77c/podcast/rss
 
 These resources support the content discussed in both podcasts:
 
-* [Healing CPTSD and Asperger's Through the Body: A Self-Help Path]({% link healing-cptsd-and-asperger_s-through-the-body/index.md %}) - The polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s article that the podcasts are based on.
+* [Healing CPTSD and Asperger's Through the Body: A Self-Help Path]({% link healing-cptsd-and-asperger_s-through-the-body/eng.md %}) - The polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s article that the podcasts are based on.
 * [Frequently Asked Questions (FAQs)]({% link healing-cptsd-and-asperger_s-through-the-body/FAQs.md %}) - Answers to common questions about CPTSD healing.
 * [Study Guide: Anki Cards]({% link healing-cptsd-and-asperger_s-through-the-body/Anki-cards.md %}) - Flashcards for studying key concepts.
 
