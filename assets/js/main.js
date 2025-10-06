@@ -87,15 +87,15 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // Select all content paragraphs and list items
   const contentElements = document.querySelectorAll('main p, main li');
-  
+
   // Part A: Regex for Chinese notes
   const noteRegex = /\(([\u4e00-\u9fff].*?)\)/g;
 
   // Part B: Scalable map for your 68+ symbols
   const symbolMap = {
-    '->': ' leads to ',
+    '-&gt;': ' leads to ', // This was '->'
     '→': ' leads to ',
-    // '=>': ' implies ',
+    // '=&gt;': ' implies ', // was '=>'
     // '~': ' is approximately ',
     // ... add more symbols as keys and spoken text as values
   };

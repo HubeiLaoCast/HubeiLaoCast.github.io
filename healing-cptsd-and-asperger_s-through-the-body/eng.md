@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Self-Help Guide for CPTSD and AS
+page-class: article-with-counters
 ---
 
 * TOC
