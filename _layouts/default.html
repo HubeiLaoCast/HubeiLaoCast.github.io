@@ -34,6 +34,9 @@
 
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/copy-code.js' | relative_url }}"></script>
+  {% if page.audio_version %}
+    <script src="/assets/js/accessibility.js"></script>
+  {% endif %}
 </body>
 
 </html>

@@ -260,15 +260,28 @@ div.highlight {
 
 /* --- Accessibility Helpers --- */
 
-// Hides content visually but keeps it accessible to screen readers
-.visually-hidden {
-  border: 0;
-  clip: rect(0 0 0 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px;
-  white-space: nowrap; 
+// Visually replaces spoken text (e.g., "leads to") with a symbol (e.g., "→")
+.sr-symbol {
+  // Use transparent color to hide the text but preserve its space
+  color: transparent;
+
+  // Use inline-flexbox for robust vertical and horizontal centering
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  // Set a stable width that is NOT relative to font-size.
+  // 'ch' is the width of the '0' character, a great unit for this.
+  width: 2ch;
+  
+  // Align the new symbol box with the surrounding text
+  vertical-align: middle;
+
+  &::before {
+    // The content to display visually
+    content: '→';
+    
+    // Make sure the pseudo-element's text is visible
+    color: var(--color-text);
+  }
 }
