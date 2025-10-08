@@ -14,13 +14,13 @@ document.addEventListener('DOMContentLoaded', () => {
       // Value: The text you want read aloud
       
       // Simple Connector (for lists)
-      '-&gt;': '; which leads to;',
+      '-&gt;': '—which leads to—',
       '→': '; which leads to;',
       // '=&gt;': ' implies ', // was '=>'
       // '~': ' is approximately ',
       
       // Narrative Break (for paragraphs)
-      '==&gt;': '. This leads to...'
+      '==&gt;': '. This leads to—'
       // ... add more symbols as keys and spoken text as values
     };
     
