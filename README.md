@@ -1,80 +1,66 @@
----
-layout: default
-title: Welcome to Hubeilaocast Podcasts 🎙️
----
+# HubeiLaoCast Project 🎙️
 
-📖 **[简体中文]({% link cn.md %}) version available.**  
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fhubeilaocast.github.io&label=Website&up_message=online&down_message=offline)
 
-Hello and welcome!
+Welcome to the official repository for the HubeiLaoCast project. This repository contains all the source code for the website hosted at [hubeilaocast.github.io](https://hubeilaocast.github.io).
 
-This is a personal podcasting space run by a "湖北佬" (Hubei native). I created this project to turn insightful and helpful online content into an audio format, making it easier to listen to while jogging, working out, or just relaxing.
-
-Below you will find the podcasts currently available.
+The goal of this project is to make insightful content on CPTSD and somatic healing, based on the work of **光瞳**, more accessible through audio and video.
 
 ---
 
-## Our Podcasts
+## ✨ Content Overview
 
-We currently offer two different audio versions based on the insightful work on CPTSD by **光瞳**.
+This project includes several types of content, including podcasts, video summaries, and study guides.
 
-### 1. Beyond Stagnation
+**➡️ For the full, up-to-date list of all podcasts and resources, please visit the live website:**
 
-This podcast is a **paraphrased discussion** of the original work, generated with assistance from NotebookLM. It's a more engaging listen, where some details are omitted.
-
-* **Language:** 🇬🇧 English
-* **Status:** Active
-
-#### **How to Subscribe 🎧**
-
-You can listen to our podcast through the following platforms:
-
-* **Apple Podcasts:** [Listen to "Beyond Stagnation"](https://podcasts.apple.com/us/podcast/beyond-stagnation/id1841136686)
-
-Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
-
-**RSS Feed Link:**
-
-```
-https://anchor.fm/s/10993eef0/podcast/rss
-```
-
-### 2. Healing CPTSD and Asperger's Through the Body: A Self-Help Path
-
-This podcast is a **pure, unabridged reading** of the polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s remarkable article. This version is for those who want to hear the complete, detailed text.
-
-* **Language:** 🇬🇧 English
-* **Status:** Active
-
-#### **How to Subscribe 🎧**
-
-You can listen to our podcast through the following platforms:
-
-* **Apple Podcasts:** [Listen to "Healing CPTSD and Asperger's..."](https://podcasts.apple.com/us/podcast/healing-cptsd-and-aspergers-through-the-body-a-self-help-path/id1840649193)
-
-Or copy the RSS feed link below and paste it into the "Add Podcast by URL" section of your favorite podcast app (like Pocket Casts, Overcast, or Apple Podcasts).
-
-**RSS Feed Link:**
-
-```
-https://anchor.fm/s/1097de77c/podcast/rss
-```
+### **[https://hubeilaocast.github.io](https://hubeilaocast.github.io)**
 
 ---
 
-## Additional Resources
+## 🚀 Running the Site Locally
 
-These resources support the content discussed in both podcasts:
+This website is built with Jekyll. To run a local copy for development or testing, please follow these steps.
 
-* [Healing CPTSD and Asperger's Through the Body: A Self-Help Path]({% link healing-cptsd-and-asperger_s-through-the-body/eng.md %}) - The polished English translation of **[光瞳](https://www.zhihu.com/people/alexcma)**'s article that the podcasts are based on.
-* [Frequently Asked Questions (FAQs)]({% link healing-cptsd-and-asperger_s-through-the-body/FAQs.md %}) - Answers to common questions about CPTSD healing.
-* [Study Guide: Anki Cards]({% link healing-cptsd-and-asperger_s-through-the-body/Anki-cards.md %}) - Flashcards for studying key concepts.
+### Prerequisites
+
+* **Ruby:** [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/) (version 2.5.0 or higher).
+* **Bundler:** [Install Bundler](https://bundler.io/) (`gem install bundler`).
+
+### Installation & Serving
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/hubeilaocast/hubeilaocast.github.io.git](https://github.com/hubeilaocast/hubeilaocast.github.io.git)
+    ```
+2.  **Navigate into the directory:**
+    ```bash
+    cd hubeilaocast.github.io
+    ```
+3.  **Install dependencies:**
+    ```bash
+    bundle install
+    ```
+4.  **Serve the site locally:**
+    ```bash
+    bundle exec jekyll serve
+    ```
+5.  Open your web browser and go to `http://localhost:4000`.
 
 ---
 
-## A Note on Content & Copyright
+## 🤝 How to Contribute
 
-The content of both podcasts (**CPTSD Healing (Summary)** and **Healing CPTSD and Asperger's... (Full Reading)**) is based entirely on the original works of **光瞳**, which were shared freely on their Zhihu and WeChat official accounts. All credit and rights for the original written content belong to them.
+Contributions, such as fixing typos or improving translations, are welcome! Please follow the standard fork and pull request workflow.
 
-This podcast project is for non-commercial, educational, and personal use only. The goal is simply to make this valuable information more accessible in an audio format.
+---
 
-Thank you for listening!
+## 🙏 Acknowledgments and Copyright
+
+This project is built upon the work of **光瞳**. All credit for the original content belongs to them. This project is for non-commercial, educational use only.
+
+---
+
+## 📄 License
+
+The underlying **code** of this Jekyll website is licensed under the [MIT License](./LICENSE). The **content** is the intellectual property of its original author.
