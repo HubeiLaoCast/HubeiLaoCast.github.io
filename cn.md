@@ -13,7 +13,30 @@ title: 欢迎来到湖北佬播客 🎙️
 
 ## 我们的播客
 
-### 1. 心智化
+### 1. 《精神现象学》读书笔记
+
+基于微信作者 `千叶映` 的原创作品制作。
+欢迎大家关注他的 youtube 频道 - [Anthony看世界](https://www.youtube.com/@freeharbor2022)
+
+* **语言：** 普通话
+
+#### **如何订阅 🎧**
+
+您可以通过以下播客应用平台收听我们的播客：
+
+* **Apple Podcasts：**[收听 "《精神现象学》读书笔记"](https://podcasts.apple.com/us/podcast/《精神现象学》读书笔记/id1848789588)
+
+或者复制下方的 RSS 订阅链接，并将其粘贴到您喜欢的播客应用（如 Pocket Casts、Overcast 或 Apple Podcasts）的"通过 URL 添加播客"部分。
+
+**RSS 订阅链接：**
+
+```
+https://anchor.fm/s/10af1c5ec/podcast/rss
+```
+
+---
+
+### 2. 心智化
 
 从人文主义立场看待个体精神成长，基于知乎用户 `千叶` 的作品。
 欢迎大家关注他的 youtube 频道 - [Anthony看世界](https://www.youtube.com/@freeharbor2022)
@@ -36,7 +59,7 @@ https://anchor.fm/s/10aef36d8/podcast/rss
 
 ---
 
-### 2. 身心觉醒之旅：从碎片到整合
+### 3. 身心觉醒之旅：从碎片到整合
 
 这是一个关于复杂性创伤后应激障碍（CPTSD）的自助指南，基于作者**[光瞳](https://www.zhihu.com/people/alexcma)**深刻见解的作品。
 
@@ -61,7 +84,7 @@ https://anchor.fm/s/1097d0b90/podcast/rss
 
 ---
 
-### 3. 🎙️ FlipRadio 分类 RSS 订阅源  
+### 4. 🎙️ FlipRadio 分类 RSS 订阅源  
 
 这里提供多个按类别划分的 RSS 订阅源，来自 **[FlipRadio](https://www.youtube.com/playlist?list=PLxfcznuBUN2AaOeUu1q03ccPf6XSJx8Ee)** 播客，以便用户更轻松地找到感兴趣的节目。  
 
